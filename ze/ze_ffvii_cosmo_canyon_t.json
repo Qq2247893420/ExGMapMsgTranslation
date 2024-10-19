@@ -29,7 +29,7 @@
   {
     "original": "**Cover here for 5 seconds before we clear this obstacle**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "5秒后道路打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -659,7 +659,7 @@
   {
     "original": "**The detonator seems to be broken**Go another way**",
     "en_trans": "",
-    "zh_trans": "管道好像炸了？",
+    "zh_trans": "酒馆侧门开了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": "**The gates will open in 15 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15秒后开门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1037,7 +1037,7 @@
   {
     "original": "[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?",
     "en_trans": "",
-    "zh_trans": "[赤红-13]我想我们可以在这里休整一会...然后继续前进..你意下如何 ？",
+    "zh_trans": "【赤红-13】我想我们可以在这里休整一会...然后继续前进..你意下如何 ？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
