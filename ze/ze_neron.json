@@ -1266,7 +1266,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "***Voted to EX Mode***",
@@ -1316,10 +1316,19 @@
   {
     "original": "RestartRound in 15 Seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15秒后重新开始回合",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
     "enable_timer": 1
+  },
+  {
+    "original": "Admin change to RTV Mode",
+    "en_trans": "",
+    "zh_trans": "管理员选择了RTV模式",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

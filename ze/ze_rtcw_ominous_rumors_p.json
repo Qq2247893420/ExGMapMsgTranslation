@@ -1,0 +1,533 @@
+[
+  {
+    "original": "# RETURN TO CASTLE WOLFENSTEIN #",
+    "en_trans": "",
+    "zh_trans": "# 重返企鹅总部中文加强版# ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# MAP BY JB_GAMBLE #",
+    "en_trans": "",
+    "zh_trans": "# 原地图作者：JB_GAMBLE ，特供版由Linyan制作#",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# MISSION 1 - OMINOUS RUMORS #",
+    "en_trans": "",
+    "zh_trans": "# 任务1 - 不祥的传闻 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# PART 1 - ESCAPE! #",
+    "en_trans": "",
+    "zh_trans": "# 第一部分 - 逃脱！#",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> HOLD THIS POSITION <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 坚守这个位置 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> GATE OPEN <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 大门开启 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> FALL BACK <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 撤退 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> DOOR OPEN <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 门开了 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# SANDBAG WALL #",
+    "en_trans": "",
+    "zh_trans": "# 沙袋墙 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> HOLD HERE <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 坚守此地 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# BLACK MAGIC #",
+    "en_trans": "",
+    "zh_trans": "# 黑魔法 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> FINAL DOOR CLOSING IN <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 最后一道门即将关闭 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> 40 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 40 秒 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> 30 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 30 秒 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> 20 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 20 秒 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "# MAGIC - FREEZE #",
+    "en_trans": "",
+    "zh_trans": "# 魔法 - 冰冻 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> 10 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 10 秒 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> 5 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 5 秒 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> PART 1 - ESCAPE! PASSED <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 第一部分 - 逃脱！已通过 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# PART 2 - CASTLE KEEP #",
+    "en_trans": "",
+    "zh_trans": "# 第二部分 - 城堡要塞 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# HOLD HERE #",
+    "en_trans": "",
+    "zh_trans": "# 在此坚守 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> ACTIVATE LEVER <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 启动操纵杆 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# 10 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "# 10 秒 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> GO GO GO <!!!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> UP THE STAIRS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 上楼梯 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# HOLD THIS POSITION #",
+    "en_trans": "",
+    "zh_trans": "# 坚守这个位置 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# PRESS BUTTON #",
+    "en_trans": "",
+    "zh_trans": "# 按下按钮 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> GATE OPEN IN 20 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 大门将在 20 秒后开启 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> GO LEFT <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 向左走 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# FLAMETHROWER #",
+    "en_trans": "",
+    "zh_trans": "# 火焰喷射器 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> DOOR CLOSING IN 15 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 门将在 15 秒后关闭 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> DEFEND THIS POSITION <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 在这个位置防守 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# FLAMETHROWER EMPTY #",
+    "en_trans": "",
+    "zh_trans": "# 火焰喷射器燃料已空 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> PART 2 - CASTLE KEEP PASSED <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 第二部分 - 城堡要塞 通过 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# MG42 AMMO #",
+    "en_trans": "",
+    "zh_trans": "# MG42 弹药 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# PART 3 - TRAM RIDE #",
+    "en_trans": "",
+    "zh_trans": "# 第三部分——电车之旅 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TRAM ON ITS WAY #",
+    "en_trans": "",
+    "zh_trans": "# 电车正在行进中 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TRAM ARRIVED #",
+    "en_trans": "",
+    "zh_trans": "# 电车已到达 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TRAM IS LEAVING #",
+    "en_trans": "",
+    "zh_trans": "# 电车正在离开 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# HOLD TRAM #",
+    "en_trans": "",
+    "zh_trans": "# 守住电车 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TRAM START IN 20 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "# 电车将在 20 秒后启动 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "# DOOR OPEN IN 20 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "# 门将在 20 秒后打开 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "# DOOR OPEN #",
+    "en_trans": "",
+    "zh_trans": "# 门开了 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TORCH #",
+    "en_trans": "",
+    "zh_trans": "# 火炬 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# FINAL DOOR CLOSING IN 20 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "# 最后一道门将在 20 秒后关闭 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "# 5 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "# 5 秒 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> PART 3 - TRAM RIDE PASSED <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 第三部分 - 电车之旅 已通过 <!!!> ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> EASY COMPLETED <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 简单难度已完成 <!!!> ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# MG42 AMMO LOADED #",
+    "en_trans": "",
+    "zh_trans": "# MG42 弹药已装填  #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# UNLIMITED AMMO #",
+    "en_trans": "",
+    "zh_trans": "# 无限弹药 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# UNLIMITED AMMO - 14 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "# 无限弹药 - 14 秒 # ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 14,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# MAGIC - FOG #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# VENT OPEN IN 15 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "# VENT OPEN #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# FINAL DOOR CLOSING IN 40 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "# 30 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "# 20 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> MED COMPLETED <!!!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

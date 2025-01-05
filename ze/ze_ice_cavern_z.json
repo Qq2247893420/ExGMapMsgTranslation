@@ -1,0 +1,209 @@
+[
+  {
+    "original": "<<< Cavern door opens in 45 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 洞穴门将在45秒后打开！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Outside door closes in 15 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 外门将在15秒后关闭！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Ice breaking in 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 冰层将在60秒后破裂！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Zombies teleport in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸将在30秒后传送过来！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Ice breaks in 45 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 冰层将在45秒后破裂！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Gate opens in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 大门将在30秒后打开！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Gastly Wind >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 阴森的风 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Gates open in 10 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 大门将在10秒后打开！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Crystals break in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 水晶将在30秒后破碎！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Bar door opens in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 栅栏门将在30秒后打开！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Zombies teleport in 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸将在60秒后传送过来！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Bridge appearing in 5 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 桥将在5秒后出现！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Icicles break in 10 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 冰柱将在10秒后断裂！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Blade stopping! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 停止！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Zombies teleport in 45 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸将在45秒后传送过来！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Gate opens in 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 大门将在60秒后打开！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Zombies teleport in 20 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸将在20秒后传送过来！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Last hold! Hold for 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 最后坚守！坚守60秒！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Ladder on side of platform has been broken watch out!!!",
+    "en_trans": "",
+    "zh_trans": "<<< 平台一侧的梯子已经坏了，小心！！！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< 25 more seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 还有25秒！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Replenish >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 补充物资 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Killzone >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 战斗区域 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "?",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

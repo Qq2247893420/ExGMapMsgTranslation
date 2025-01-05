@@ -1,0 +1,380 @@
+[
+  {
+    "original": "||| Map by Struppi |||",
+    "en_trans": "",
+    "zh_trans": "||| 地图作者： Struppi |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| ROOF access open |||",
+    "en_trans": "",
+    "zh_trans": "||| 屋顶入口打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Gate opens in 20 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 大门将在 20 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Gate opens in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 大门将在 10 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Door breaks in 20 seconds ||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 20 秒后被摧毁 ||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| OFFICE gate opens in 20 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 办公室大门将在 20 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| OFFICE gate opens in 5 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 办公室大门将在 5 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Door opens in 30 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 30 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Door opens in 5 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 5 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Gate opens in 30 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 大门将在 30 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Gate opens in 5 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 大门将在 5 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Train leaves in 20 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 火车将在 20 秒后离开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Door opens in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 10 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Generator Powering up |||",
+    "en_trans": "",
+    "zh_trans": "||| 发电机正在供电 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Door breaks in 10 seconds ||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 10 秒后被摧毁 ||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Door breaks in 10 ||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 10 秒后被摧毁 ||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Door breaks in 5 ||",
+    "en_trans": "",
+    "zh_trans": "||| 门将在 5 秒后被摧毁 ||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Train leaves in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 火车将在 10 秒后离开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Elevator is leaving in 15 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 电梯 15 秒后离开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| left Blastdoor will open in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 左侧防爆门将在 10 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Fencegate opens in 20 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 栅栏门将在 20 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Blastdoor opens in 20 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 防爆门将在 20 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Fencegate opens in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 栅栏门将在 10 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| STORAGE door opens in 20 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 仓库门将在 20 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| STORAGE door opens in 5 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 仓库门将在 5 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Elevator unlocks in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 电梯将在 10 秒后解锁 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Elevator button unlocked |||",
+    "en_trans": "",
+    "zh_trans": "||| 电梯按钮已解锁 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Elevator leaves in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 电梯 10 秒后离开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Truck leaves in 5 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 卡车 5 秒后离开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Kill the Monster befor in destroys the Truck |||",
+    "en_trans": "",
+    "zh_trans": "||| 在怪物摧毁卡车之前将其击败 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Zombies incoming |||",
+    "en_trans": "",
+    "zh_trans": "||| 尸潮来袭 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Ultralisk is dead |||",
+    "en_trans": "",
+    "zh_trans": "||| 雷兽已死 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Blastdoor opens in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 防爆门将在 10 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Silodoor opens in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 地窖门将在 10 秒后打开|||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Elevator is leaving in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 电梯 10 秒后离开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Train leaves in 5 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 火车将在 5 秒后启程 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| ZOMBIES WIN |||",
+    "en_trans": "",
+    "zh_trans": "||| 僵尸胜利 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| Mission failed <Truck Destroyed> |||",
+    "en_trans": "",
+    "zh_trans": "||| 任务失败 <卡车被毁> |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "||| right Blastdoor will open in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 右侧防爆门将在 10 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Blastdoor opens in 40 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 防爆门将在 40 秒后开启 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| Fencedoor opens in 10 seconds |||",
+    "en_trans": "",
+    "zh_trans": "||| 栅栏门将在 10 秒后打开 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "||| HUMANS WIN |||",
+    "en_trans": "",
+    "zh_trans": "||| 人类胜利 |||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

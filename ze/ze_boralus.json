@@ -1,0 +1,263 @@
+[
+  {
+    "original": ">>>tp in 20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>20 秒后传送<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>door open in 20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>门将在 20 秒后打开 <<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>tp in 10 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>10 秒后传送<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>tp in 30 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>30 秒后传送<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>找到钥匙！<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>钥匙已经找到<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>door open in 30 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门将在 30 秒后打开 <<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>干的漂亮，离开这座监狱<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>我们的船已经来接我们了，但还要一些准备<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>在天台最后防守 30 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>在天台最后防守 30 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>所有传送已关闭<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>快上船!<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>nuke in 20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>20 秒后引爆核弹<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>stage 1 complete<<<",
+    "en_trans": "",
+    "zh_trans": ">>>第一关完成<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>给我点时间搭一座木桥, 10 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>给我点时间搭一座木桥,还剩 10 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>10 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>还剩 10 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>我们要通过港务长办公室进入伯拉勒斯, 40 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>我们要通过港务长办公室进入伯拉勒斯,还剩 40 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>正在清理障碍, 30 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>正在清理障碍,还剩 30 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>这儿是伯拉勒斯的汇帆市场<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>door open in 30 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>> 还剩 30 秒门就打开 <<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>前方是戴姆维克街区<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>那里是流浪汉的居所<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>我们必须穿过这片街区<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>有一面墙壁碎了<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>20 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>还剩 20 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>终于从这恶心的街区出来了<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>防守到门关, 20 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>防守到门关,还剩 20 秒<<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>stage 2 complete<<<",
+    "en_trans": "",
+    "zh_trans": ">>>第二关完成<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>30 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  }
+]

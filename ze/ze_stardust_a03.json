@@ -1,0 +1,128 @@
+[
+  {
+    "original": "** last update:2024-11-29 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 20 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 20 秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 5 seconds left <<",
+    "en_trans": "",
+    "zh_trans": ">> 还剩 5 秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 40 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 40 秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> falltp location has been updated <<",
+    "en_trans": "",
+    "zh_trans": ">> 传送位置已更新 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 30 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 30 秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Zombies took over the road <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸占领了道路 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Failed <<",
+    "en_trans": "",
+    "zh_trans": ">> 失败 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 35 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 35 秒 << ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Zombie teleport in 15 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸将在 15 秒后传送 << ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 25 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 25 秒 << ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 15 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 15 秒 << ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Something happened... **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ze_Stardust - Ver.a03_f3 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

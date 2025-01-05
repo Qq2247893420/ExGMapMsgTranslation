@@ -2,7 +2,7 @@
   {
     "original": "<TELEPORTING IN 30 SECONDS>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 30 秒后传送>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -11,7 +11,7 @@
   {
     "original": "<AFK TP AFTER 5 SECONDS>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 5 秒后传送挂机玩家>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -20,7 +20,7 @@
   {
     "original": "<BREAK THE CUBE>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<打碎方块> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "<AFK TP IN 5 SECONDS>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 5 秒后传送挂机玩家>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -38,7 +38,7 @@
   {
     "original": "<HOLD 10 SECONDS>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<坚守 10 秒>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -47,10 +47,109 @@
   {
     "original": "<HOLD ONE MORE 10 SECONDS>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<再守 10 秒>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
+  },
+  {
+    "original": "<DEFEND 30 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "<防守 30 秒>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<AFK TP IN 10 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "< 10 秒后传送挂机玩家>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<SURVIVE 50 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "<存活 50 秒>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "<AFK TELEPORT AFTER 5 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "< 5 秒后传送挂机玩家>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<ZM TP AFTER 5 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "< 5 秒后传送僵尸> ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<TELEPORTING IN 35 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "< 35 秒后传送>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "<GET READY TO DODGE LASERS>",
+    "en_trans": "",
+    "zh_trans": "<准备躲避激光>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<GG. YOU BEAT THE MAP>",
+    "en_trans": "",
+    "zh_trans": "<恭喜。你通过了这张地图> ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<STAGE II WILL BE ADDED IN FUTURE>",
+    "en_trans": "",
+    "zh_trans": "<第二关将在未来添加> ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<Map by Smurf>",
+    "en_trans": "",
+    "zh_trans": "<地图作者： Smurf>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<THX FOR PLAYING>",
+    "en_trans": "",
+    "zh_trans": "<感谢游玩>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

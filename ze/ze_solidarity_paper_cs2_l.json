@@ -1,0 +1,317 @@
+[
+  {
+    "original": "***Defend 20 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***防守 20 秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Tram Leaves In 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***电车 10 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Tram Leaves In 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***电车 5 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Sidedoors Open in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***侧门在 10 秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Defend 35 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***防守 35 秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Elevator 1 Leaves in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***一号电梯将在 10 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Elevator 1 Leaves in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***一号电梯将在 5 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Elevator 2 Leaves in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***二号电梯将在 10 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Elevator 2 Leaves in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***二号电梯将在 5 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Vent Is Open***",
+    "en_trans": "",
+    "zh_trans": "***通风口打开了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Defend For 25 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***防守 25 秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Gate Open In 15 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***大门将在 15 秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Gate Open In 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***大门将在 5 秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***FALL BACK!!***",
+    "en_trans": "",
+    "zh_trans": "***撤退!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Activating Bridge In 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***5 秒后启动桥梁***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Glass Breaks In 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***玻璃将在 5 秒后破裂***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Defend 15 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***防守 15 秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Door Open In 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***门将在 5 秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***FIGHT THE BOSS***",
+    "en_trans": "",
+    "zh_trans": "***与boss战斗***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HEALTH: 100000***",
+    "en_trans": "",
+    "zh_trans": "***生命值: 100000***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Cookie Paper Monster Are Using Wind***",
+    "en_trans": "",
+    "zh_trans": "***纸点心怪兽使用了 风***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Cookie Paper Monster Are Using Shield***",
+    "en_trans": "",
+    "zh_trans": "***纸点心怪兽使用了 盾***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Cookie Paper Monster Are Using Magic On Zombie Cage***",
+    "en_trans": "",
+    "zh_trans": "***纸点心怪兽对尸笼使用了魔法***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Door Open in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***门将在 5 秒后打开*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Cookie Paper Monster Are Using Laser***",
+    "en_trans": "",
+    "zh_trans": "***纸点心怪兽使用了 激光***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***COOKIE PAPER HAVE DIED***",
+    "en_trans": "",
+    "zh_trans": "***纸点心怪兽死了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!***",
+    "en_trans": "",
+    "zh_trans": "***提示：如果平台上还有僵尸。把他们打下去！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleport in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "*** 10 秒后传送*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Defend The Boat***",
+    "en_trans": "",
+    "zh_trans": "***保卫船只***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Door Open in 30 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***门将在 30 秒后打开*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Door Open in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***门将在 10 秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Door Closes in 15 Seconds!!***",
+    "en_trans": "",
+    "zh_trans": "***门将在 15 秒后关闭！！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Door Closes in 5 Seconds!!***",
+    "en_trans": "",
+    "zh_trans": "***门将在 5 秒后关闭！！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***NUKE... NUKE... NUKE...***",
+    "en_trans": "",
+    "zh_trans": "***核爆……核爆……核爆……***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MAP BY: RASTAFARIAN (DK)***",
+    "en_trans": "",
+    "zh_trans": "***地图作者: RASTAFARIAN (DK)***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

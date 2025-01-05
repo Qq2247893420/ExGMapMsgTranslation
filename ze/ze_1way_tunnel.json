@@ -182,7 +182,7 @@
   {
     "original": "***ZOMBIES TP IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***僵尸 10 秒后传送***",
+    "zh_trans": "***僵尸 15 秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -452,7 +452,7 @@
   {
     "original": "***OH NO ! WE TOOK TOO LONG, THEY'RE GOING TO NUKE THE TUNNEL !!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***哦，不！我们耗时太久，他们要炸毁隧道了！！！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -480,6 +480,15 @@
     "original": "因hide原因导致死亡时间过长临时改处死僵尸",
     "en_trans": "",
     "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** OH NO ! THE ARMY IS ALREADY BOMBING THE CITY ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 噢，不！军队已经在轰炸这座城市了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

@@ -862,5 +862,266 @@
     "kr_trans": "",
     "timer_num": 20,
     "enable_timer": 1
+  },
+  {
+    "original": "[Map] Fence break in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "5秒后破坏栅栏。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] ZM start in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "僵尸将在 5 秒后开始",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] Magican unlock Ele and ZM Dark!",
+    "en_trans": "",
+    "zh_trans": "遗迹法师解锁了人类电神器和僵尸黑洞",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Because something,Final area light is terrible **",
+    "en_trans": "",
+    "zh_trans": "**因为某些原因，最终区域的光线很糟糕。**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Magican unlock NoZM and ZM Slow!",
+    "en_trans": "",
+    "zh_trans": "遗迹法师解锁了人类防抓神器和僵尸减速",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Sry to all player **",
+    "en_trans": "",
+    "zh_trans": "** 向所有玩家致歉 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Magican unlock Wind and ZM Warp!",
+    "en_trans": "",
+    "zh_trans": "遗迹法师解锁了人类风神器和僵尸秒杀",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Outside Door open in 40 seconds.",
+    "en_trans": "",
+    "zh_trans": "外面的门将在 40 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] AFK TP in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "20 秒后挂机传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] Team A has arrive in ready room.",
+    "en_trans": "",
+    "zh_trans": "A队已经到达准备室",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] And Team B road unlock.",
+    "en_trans": "",
+    "zh_trans": "并且B队道路解锁",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Team A Road Push Unlock in 17 seconds.",
+    "en_trans": "",
+    "zh_trans": "A队的推进道路将在 17 秒后解锁",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 17,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] In Here Team A player can go to Team B.",
+    "en_trans": "",
+    "zh_trans": "A队队员可以从这里前往B队所在区域",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] And now ZM will attack Team B.",
+    "en_trans": "",
+    "zh_trans": "并且现在僵尸将攻击B队",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Team A need in fast speed across the Hall.",
+    "en_trans": "",
+    "zh_trans": "A队需要快速穿过大厅",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Team A need to close Boss room door.",
+    "en_trans": "",
+    "zh_trans": "A队需要关闭BOSS房间的门",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Or ZM will in Boss Room.",
+    "en_trans": "",
+    "zh_trans": "否则僵尸将会进入BOSS房间",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Boss Fight in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "10 秒后开始首领战",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] AFK TP in 9 seconds.",
+    "en_trans": "",
+    "zh_trans": "挂机传送将在 9 秒后",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 9,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Captain.Li] Kill it to get sample!",
+    "en_trans": "",
+    "zh_trans": "[李队长] 杀了它获取样本！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Now all player have 30 seconds to ready.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Map] AFK TP in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Captain.Li] We killed it!Let's go!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Dr.He] Ok,and we have take sample.Now we must go to extraction point to leave here!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Now ZM attack Team A.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Team A need to break switch on the wall to open Team B road!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] And Team B must defense sometime for Team A to break switch!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Team B need to break switch to open Team A road!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Map] Nuke in 45 second.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
   }
 ]

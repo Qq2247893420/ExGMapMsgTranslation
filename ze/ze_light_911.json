@@ -1,0 +1,146 @@
+[
+  {
+    "original": "*** Special Thanks testing: GFL & MAPEADORES ***",
+    "en_trans": "",
+    "zh_trans": "*** 特别鸣谢: GFL & MAPEADORES ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> DEFEND 30s <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 防守30秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> FALL BACK <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 撤退 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Zombies TP in 5 sec! ***",
+    "en_trans": "",
+    "zh_trans": "*** 僵尸将在5秒后传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "* * *Defend 30 seconds * * *",
+    "en_trans": "",
+    "zh_trans": "* * *防守30秒* * *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Zombies tp in 10 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 僵尸将在10秒后传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "* * * FALL BACK * * *",
+    "en_trans": "",
+    "zh_trans": "* * * 撤退 * * *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND 10s***",
+    "en_trans": "",
+    "zh_trans": "*** 防守10秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** FALL BACK ***",
+    "en_trans": "",
+    "zh_trans": "*** 撤退 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND/NUKE 30s ***",
+    "en_trans": "",
+    "zh_trans": "*** 距离核爆还有30秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Zombies (all) tp in 15 s ***",
+    "en_trans": "",
+    "zh_trans": "*** 僵尸将在15秒后传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** NUKE 3 ***",
+    "en_trans": "",
+    "zh_trans": "*** 3秒后核爆 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** NUKE 2 ***",
+    "en_trans": "",
+    "zh_trans": "*** 2秒后核爆 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** NUKE 1 ***",
+    "en_trans": "",
+    "zh_trans": "*** 1秒后核爆 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Map by: Kappoochino ***",
+    "en_trans": "",
+    "zh_trans": "*** 地图由 Kappoochino 制作 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** rtv ***",
+    "en_trans": "",
+    "zh_trans": "*** 可以换图了！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

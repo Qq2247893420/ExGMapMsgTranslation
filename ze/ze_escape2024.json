@@ -16,5 +16,203 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": ">>>tp in 15 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>15 秒后传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>僵尸被困住了 10 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>僵尸被困住了 10 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>30 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>30 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>20 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>还剩 20 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>tp in 20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>20 秒后传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>30 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>还剩 30 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>僵尸被阻挡 20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>僵尸被阻挡 20 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>僵尸被阻挡 10 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>僵尸被阻挡 10 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>一楼梯子即将打开 5 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>一楼梯子即将打开，还剩 5 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>二楼梯子即将打开 5 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>二楼梯子即将打开，还剩 5 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>三楼梯子即将打开 5 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>三楼梯子即将打开，还剩 5 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>20 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>tp in 10 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>10 秒后传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>zombie tp in 10 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>僵尸还有 10 秒传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>快跑，否则要进入二次元了 !<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>tp in 15 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>15 秒后传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>tp in 25 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>25 秒后传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>zombie tp in 10 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>僵尸还有 10 秒传送<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>僵尸被阻挡 20 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": ">>>僵尸被阻挡 20 秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>无限弹药已启动<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>无限弹药结束<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>door open in 20 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>> 20 秒后开门 <<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
   }
 ]

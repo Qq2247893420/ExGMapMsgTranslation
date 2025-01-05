@@ -1,0 +1,803 @@
+[
+  {
+    "original": "After a long trip to mars you finally land but something strange has happened...",
+    "en_trans": "",
+    "zh_trans": "在超长的旅途之后，你们终于抵达了火星。但是总感觉少了点什么...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "IT'S CHRISTMAS!!!!!!!!!!!",
+    "en_trans": "",
+    "zh_trans": "没错，系圣诞节!!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Map made by Xquality, remixed by Santa, models from Luffaren",
+    "en_trans": "",
+    "zh_trans": "地图制作：Xquality，Santa负责缝合，模型来自Luffaren",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MATERIALS AT LVL 3 ***",
+    "en_trans": "",
+    "zh_trans": "*** 魔晶石等级 三 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Mini airlock opening in 5.",
+    "en_trans": "",
+    "zh_trans": "小小的气闸门 5 秒后开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "ye olde tram leaves in 4 seconds",
+    "en_trans": "",
+    "zh_trans": "大清制造的小火车 4 秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "Holly Jolly-enerator offline :(",
+    "en_trans": "",
+    "zh_trans": "神圣发电机离线了:(",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Holly Jolly-enerator waiting for restart.",
+    "en_trans": "",
+    "zh_trans": "神圣发电机渴望你来重启它 (*/ω＼*)",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Airlock opening in 20 secs.",
+    "en_trans": "",
+    "zh_trans": "气闸门 20 秒后开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Holly Jolly-enerator Online :D",
+    "en_trans": "",
+    "zh_trans": "神圣发电机非常喜欢你的服务! 现在活力满满! :D",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Airlock opening in 15 secs.",
+    "en_trans": "",
+    "zh_trans": "气闸门 15 秒后开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Airlock opening in 10 secs.",
+    "en_trans": "",
+    "zh_trans": "气闸门 10 秒后开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Airlock opening in 5 secs.",
+    "en_trans": "",
+    "zh_trans": "气闸门 5 秒后开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Airlock opening.",
+    "en_trans": "",
+    "zh_trans": "气闸门 开啦 ╰(*°▽°*)╯",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Bunker closing in 60 secs",
+    "en_trans": "",
+    "zh_trans": "门 60 秒后关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "Pole doors closing.",
+    "en_trans": "",
+    "zh_trans": "支柱门关闭ing",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Bunker closing in 40 secs",
+    "en_trans": "",
+    "zh_trans": "门 40 秒后关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "Security airlock closing.",
+    "en_trans": "",
+    "zh_trans": "安全气闸关闭ing",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "You are starting to feel uneasy about Christmas this year...",
+    "en_trans": "",
+    "zh_trans": "你感叹到今年的圣诞节真不容易啊",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Maybe you shouldn't open your presents...",
+    "en_trans": "",
+    "zh_trans": "或许你不应该打开你的圣诞礼物的",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "??????? christmas generator has failed ????????",
+    "en_trans": "",
+    "zh_trans": "??????? 啊，圣诞发动机坏了 ???????",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "perhaps we have been too naughty",
+    "en_trans": "",
+    "zh_trans": "啊是不是我们太不听话了呜呜呜 TwT",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "sinners must perish",
+    "en_trans": "",
+    "zh_trans": "啊啊啊啊啊坏人必须似!!!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "christmas is ruined",
+    "en_trans": "",
+    "zh_trans": "我的圣诞被毁了!!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "god smites the unholy demons who follow santa",
+    "en_trans": "",
+    "zh_trans": "上帝会给追随圣诞老人的恶魔降下神罚!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "santa was never really here",
+    "en_trans": "",
+    "zh_trans": "圣诞老人从未来过这里",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "HO HO HO - naughty boys can only defend themselves with their knives...",
+    "en_trans": "",
+    "zh_trans": "哈哈哈哈 - 淘气男孩只能用他们可怜的小刀来保护他们了!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ZOMBIES HAVE INFECTED THE BUNKER **",
+    "en_trans": "",
+    "zh_trans": "** 僵尸进来了! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Bunker closing in 20 secs",
+    "en_trans": "",
+    "zh_trans": "门 20 秒后关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Bunker closing in 10 secs",
+    "en_trans": "",
+    "zh_trans": "门 10 秒后关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Bunker closing in 5 secs",
+    "en_trans": "",
+    "zh_trans": "门 5 秒后关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Marslab self-destructing in...",
+    "en_trans": "",
+    "zh_trans": "火星实验室自毁程序启动中...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "REBUYS ARE DISABLED! FALL DAMAGE IS ENABLED!",
+    "en_trans": "",
+    "zh_trans": "嗨嗨嗨，圣诞快乐，克劳德。你喜欢圣诞节去炸魔晄炉吗? 什么? 你不喜欢!? 不喜欢也要去捏~",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Door is opening in 10 seconds**",
+    "en_trans": "",
+    "zh_trans": "**门 10 秒后开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door is opening in 5**",
+    "en_trans": "",
+    "zh_trans": "**门 5 秒后开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door is open**",
+    "en_trans": "",
+    "zh_trans": "**门开了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Elevator is leaving in 10s**",
+    "en_trans": "",
+    "zh_trans": "**电梯 10 秒后离开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A player has adquired ELECTRO MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 电 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired GRAVITY MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 黑洞 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired HEAL MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 治疗 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired WIND MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 风 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired ICE MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 冰 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Elevator broken.",
+    "en_trans": "",
+    "zh_trans": "电梯坏了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired ULTIMA MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 终极 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Santa will punish naughty boys and girls who don't save Christmas...",
+    "en_trans": "",
+    "zh_trans": "圣诞老人要惩罚你们这些没能拯救圣诞的坏孩子...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired EARTH MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 土 魔晶石已拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**CURRENT DIFFICULTY ** >> EXTREME II << **",
+    "en_trans": "",
+    "zh_trans": "**魔晄发电机已启动( ͡° ͜ʖ ͡°) **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired FIRE MATERIA **",
+    "en_trans": "",
+    "zh_trans": "** 火 魔晶石已拾取 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Big and strong mommy tomboys kill zombies and save christmas on Mars...",
+    "en_trans": "",
+    "zh_trans": "强壮的假小子妈咪会把僵尸全部击毙，来保护大家的圣诞节",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Pathetic and weak soyboys will make Santa do the job for them...",
+    "en_trans": "",
+    "zh_trans": "圣诞老人会好好处理香香软软的小男娘的",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** We have reached the core ...**",
+    "en_trans": "",
+    "zh_trans": "** 我们已抵达魔晄炉的核心 ...**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ... Cloud is planting the bomb **",
+    "en_trans": "",
+    "zh_trans": "** ... 克劳德正在安置炸弹 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Bomb has been planted ** Run **",
+    "en_trans": "",
+    "zh_trans": "** 炸弹已经安放 ** 准备Boss战 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Keep shooting ! We dont know what it can do **",
+    "en_trans": "",
+    "zh_trans": "** 保持火力! 我们不知道这是否有效 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **",
+    "en_trans": "",
+    "zh_trans": "** 提示: 手雷可以造成大量伤害 ** 火雷黑可对boss造成伤害 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Dont stop shooting ! Dont let him attack !",
+    "en_trans": "",
+    "zh_trans": "** 不要摸鱼! 不要让圣诞老人攻击到你 !",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** WHAT THE FUCK!!!!!!!!!!!!!!!!!!!!!!!!! ***",
+    "en_trans": "",
+    "zh_trans": "** 臣卜 米曹 !!!!!!!!!!!!!!!! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT IS CASTING ** PREPARE YOURSELF **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人准备释放技能 ** 做好准备 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST GRAVITY **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 黑洞 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Bahamut is in attack position ** Keep firing !! **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人已进入攻击态势 ** 保持火力 !!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人听到了僵尸的诉求，正在释放 >>终极<< ** 奶做好准备 ++**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 终极 10 秒后释放 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Bahamut is going to cast Mega Flare !! Shoot !! **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 超级火焰喷发 !! 继续开枪 !!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS HEALED 150 HIT POINTS**",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人治疗了自己 150 血",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST ICE **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 冰 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST ELECTRO! **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 电 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST WIND **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 风 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人要彻底做掉我们啦! 赶紧开枪别摸鱼了!! (╯°□°）╯︵ ┻━┻",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Bahamut has been defeated ! ** Go go! Run upstairs ! **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人被击败啦! 快去上炉子! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** EXPLOSION IN 130 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 130 秒后爆炸 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 130,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 120 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 120 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 110 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 110 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 110,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 100 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 100 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 90 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 90 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 80 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 80 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 80,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 70 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 70 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 70,
+    "enable_timer": 0
+  },
+  {
+    "original": "** DOOR OPENS IN 35 S **",
+    "en_trans": "",
+    "zh_trans": "** 门 35 秒后开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 60 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 60 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 还剩 50 秒 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 40 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 40 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 30 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 30 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 20 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 20 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** RUN! **",
+    "en_trans": "",
+    "zh_trans": "** 快跑! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT IS DEAD ** KEEP RUNNING **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人死了! ** 继续前进 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 10 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 10 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** BAHAMUT HAS CAST FIRE! **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 火焰 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **",
+    "en_trans": "",
+    "zh_trans": "** 圣诞老人释放了 土 ** 开枪打碎这面土墙 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 50 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "** 还剩 50 秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "help me step bro - i'm stuck!",
+    "en_trans": "",
+    "zh_trans": "帮个忙哥们 - 我被困住了!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

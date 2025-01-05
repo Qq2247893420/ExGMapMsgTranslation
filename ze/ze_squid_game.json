@@ -1,0 +1,137 @@
+[
+  {
+    "original": "<<< MAP BY =LIROY= >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 地图作者；=LIROY=（翻译；水木，若需删除boss战提示请联系） >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "DOOR OPENING IN 40 SEC",
+    "en_trans": "",
+    "zh_trans": "门将在40秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "ZOMBIES ARE GONE ! GO TO THE DOOR !",
+    "en_trans": "",
+    "zh_trans": "僵尸已被传送至尸笼，快去贴门！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "DOOR OPENING IN 30 SEC",
+    "en_trans": "",
+    "zh_trans": "门将在30秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "SURVIVE 70 SEC",
+    "en_trans": "",
+    "zh_trans": "生存70秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 70,
+    "enable_timer": 1
+  },
+  {
+    "original": "DEFEND ZOMBIES FOR 40 SEC",
+    "en_trans": "",
+    "zh_trans": "坚守40秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPENING IN 60 SEC",
+    "en_trans": "",
+    "zh_trans": "门将在60秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPENING IN 20 SEC",
+    "en_trans": "",
+    "zh_trans": "门将在20秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "BOSS USE ELECTRO !!!",
+    "en_trans": "",
+    "zh_trans": "boss释放了电（蹲蹲蹲蹲蹲）6",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "BOSS USE WIND !!!",
+    "en_trans": "",
+    "zh_trans": "boss释放了风（对着boss抵抗推力）6",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "LOOK DOWN !!!!",
+    "en_trans": "",
+    "zh_trans": "看下面（躲脚底特效）6",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< YOU MUST KILL ALL ZOMBIES ! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 你必须解决进来的僵尸才能继续游戏! >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "因地图特殊 暂时关闭hide功能 模型缩小",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "LOOK UP !!!!",
+    "en_trans": "",
+    "zh_trans": "看上面（抬头躲天坠）6",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "BOSS USE LASERS !!!",
+    "en_trans": "",
+    "zh_trans": "boss使用了跳刀（boss方向固定低刀）6",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

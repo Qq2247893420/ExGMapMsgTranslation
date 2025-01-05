@@ -38,7 +38,7 @@
   {
     "original": "**Scooter will leave in 5 seconds**",
     "en_trans": "",
-    "zh_trans": "**滑板车将会在10秒后离开**",
+    "zh_trans": "**滑板车将会在5秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -173,7 +173,7 @@
   {
     "original": "**Secret Mode: Super Run**",
     "en_trans": "",
-    "zh_trans": "**隐藏模式：快跑**",
+    "zh_trans": "**隐藏模式：超级跑跑**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -471,6 +471,51 @@
     "original": ">>You'd better not do this<<",
     "en_trans": "",
     "zh_trans": ">>你最好不要这样做<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "131",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 131,
+    "enable_timer": 1
+  },
+  {
+    "original": "111",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 111,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Crazy Mode has turned on**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "晓南凉dd",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Ver:5.0.7<<",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

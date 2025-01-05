@@ -1,0 +1,434 @@
+[
+  {
+    "original": "<System> ** Welcome to Cyberspace! **",
+    "en_trans": "",
+    "zh_trans": "** 欢迎来到赛博空间 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Defend for 30 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守30秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Defend for 15 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守15秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 5 seconds left <<",
+    "en_trans": "",
+    "zh_trans": ">> 5秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Zombie TP in 15 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸将在15秒后传送 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Defend for 20 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守20秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Defend for 5 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守5秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Zombie TP in 10 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸在10秒后传送 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Timer stopped <<",
+    "en_trans": "",
+    "zh_trans": ">> 计时已停止 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 10 more seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 10秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Watch out for Zombies <<",
+    "en_trans": "",
+    "zh_trans": ">> 小心僵尸 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Last defend for 20 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 进行最后20秒的防御 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Zombie TP in 5 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸在5秒后传送 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 5 <<",
+    "en_trans": "",
+    "zh_trans": ">> 5 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 4 <<",
+    "en_trans": "",
+    "zh_trans": ">> 4 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 3 <<",
+    "en_trans": "",
+    "zh_trans": ">> 3 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 2 <<",
+    "en_trans": "",
+    "zh_trans": ">> 2 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 1 <<",
+    "en_trans": "",
+    "zh_trans": ">> 1 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Chapter 1 Completed <<",
+    "en_trans": "",
+    "zh_trans": ">> 第一关已完成 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Admin set to Overdrive Mode <<",
+    "en_trans": "",
+    "zh_trans": ">> 管理员已设置为过载模式 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Zombies have reached the wall <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸已经抵达围墙 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Failed <<",
+    "en_trans": "",
+    "zh_trans": ">> 失败 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Timeleft : 60 <<",
+    "en_trans": "",
+    "zh_trans": ">> 剩余:60秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Timeleft : 30 <<",
+    "en_trans": "",
+    "zh_trans": ">> 剩余:30秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Timeleft : 10 <<",
+    "en_trans": "",
+    "zh_trans": ">> 剩余:10秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Timeleft : 5 <<",
+    "en_trans": "",
+    "zh_trans": ">> 剩余:5秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** I hear someone's voice from somewhere... **",
+    "en_trans": "",
+    "zh_trans": "** 我听到从某个地方传来某人的声音 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<???> ** This place... it's not just a playground, it's something... **",
+    "en_trans": "",
+    "zh_trans": "<???> ** 这个地方…… 它可不只是个游乐场，它是某种特别的存在 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<???> ** It looks like a security program is working. We have to be careful... **",
+    "en_trans": "",
+    "zh_trans": "<???> ** 看起来有一个安全程序正在运行。我们必须得小心点儿 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** I hear a message from somewhere... **",
+    "en_trans": "",
+    "zh_trans": "** 我听到从某个地方传来的一条消息 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<System> ** Entry beyond this point is prohibited. Please turn back. **",
+    "en_trans": "",
+    "zh_trans": "** 此处禁止入内，请返回 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Defend for 35 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守35秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Defend for 25 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守25秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Watch your step <<",
+    "en_trans": "",
+    "zh_trans": ">> 小心脚下 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Defend for 40 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守40秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 100 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守100秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 80 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守80秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 80,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 60 seconds <<",
+    "en_trans": "",
+    "zh_trans": ">> 防守60秒 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Admin set to Chapter 2 <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Admin set to Chapter Ex <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Restart round... <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 40 seconds <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> platform appeared <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 20 seconds <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> 5 seconds <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> Beam stopped <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> look down <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Chapter 2 Completed <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  }
+]

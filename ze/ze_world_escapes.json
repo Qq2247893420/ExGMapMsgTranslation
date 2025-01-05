@@ -1,0 +1,173 @@
+[
+  {
+    "original": "[MAP INFO] *** This map has been created by FuTuRe ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 本地图由 FuTuRe 创建 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 特别感谢 Syoudous 对我的帮助！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WORLD NUKE INCOMING IN 15 SECONDS! ***",
+    "en_trans": "",
+    "zh_trans": "*** 核打击将在 15 秒后到来！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** WORLD NUKE INCOMING IN 10 SECONDS! ***",
+    "en_trans": "",
+    "zh_trans": "*** 核打击将在 10 秒后到来！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** WORLD NUKE INCOMING IN 5 SECONDS! ***",
+    "en_trans": "",
+    "zh_trans": "*** 核打击将在 5 秒后到来！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] The gate will open in 20 seconds! *****",
+    "en_trans": "",
+    "zh_trans": "[地图信息] 大门将在 20 秒后开启！***** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** The gate has opened, move on! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 大门已经打开，继续前进！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 防守 25 秒，直到平台崩塌！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** Get in the hole! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 进入洞里！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] The gate is slowly opening, hold this area! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] 大门正在缓慢开启，守住这个区域！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Hold here for 25 seconds! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 在此坚守 25 秒！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 启动门上的爆炸装置 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 炸药已安置，坚守 30 秒！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** 5 seconds left until explosion! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 距离爆炸还剩 5 秒！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] ** The metal wall will break down in 15 seconds! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 金属墙将在 15 秒后被破坏！*** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 在大门打开前守住这个区域，必须有人先去激活按钮！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Button has been pressed, hold area until gate opens! ***",
+    "en_trans": "",
+    "zh_trans": "[地图信息] *** 按钮已被按下，守住该区域直至大门开启！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Gate has opened up, move move move! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Keep this area until we get sent to the next world! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

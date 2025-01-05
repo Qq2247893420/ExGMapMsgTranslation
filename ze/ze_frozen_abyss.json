@@ -1,0 +1,551 @@
+[
+  {
+    "original": "Special thanks to Moltard, Nostar, Raphi, Kaemon, Luffaren",
+    "en_trans": "",
+    "zh_trans": "特别鸣谢:Moltard,Nostar,Raphi,kaemon,leffaren",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Stand on the two plates to open the temple |",
+    "en_trans": "",
+    "zh_trans": "| 站在两块石板上已打开神庙 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Door opens in 30 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 门在30秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Explosive bow has been picked up **",
+    "en_trans": "",
+    "zh_trans": "| 已拾取爆炸弓 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Gate opens in 25 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 大门在25秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "| 5 seconds left |",
+    "en_trans": "",
+    "zh_trans": "| 5秒后离开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Ice bow has been picked up **",
+    "en_trans": "",
+    "zh_trans": "** 已拾取寒冰弓 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Gate opens in 15 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 大门在15秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Looks like there is a lever up there.. |",
+    "en_trans": "",
+    "zh_trans": "| 看起来那里有一个操纵杆 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Gate opens in 20 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 大门在20秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Ladder shortcut is now open |",
+    "en_trans": "",
+    "zh_trans": "| 梯子捷径现在已打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Elevator leaves in 15 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 电梯将在15秒后离开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Gates opens in 25 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 大门在25秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Keep defending a bit more |",
+    "en_trans": "",
+    "zh_trans": "| 再继续防守一会儿 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Door opens in 20 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 门在20秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Spider cave door opens in 20 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 蜘蛛洞穴的门将在20秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Middle door opens in 25 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 中门将在 25 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Zombie teleport in 10 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 僵尸将在 10 秒后传送 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Dont let the zombies inside the last room |",
+    "en_trans": "",
+    "zh_trans": "| 不要让僵尸进入最后一个房间 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Heal staff has been picked up **",
+    "en_trans": "",
+    "zh_trans": "** 已拾取治疗法杖 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Classic bow has been picked up **",
+    "en_trans": "",
+    "zh_trans": "** 已拾取减速弓 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Zombie gravity has been picked up |",
+    "en_trans": "",
+    "zh_trans": "| 僵尸已拾取黑洞 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Dragon has been picked up |",
+    "en_trans": "",
+    "zh_trans": "| 僵尸已拾取龙息 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Zombie freezer has been picked up |",
+    "en_trans": "",
+    "zh_trans": "| 僵尸已拾取迟缓 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Electric bow has been picked up **",
+    "en_trans": "",
+    "zh_trans": "** 已拾取磁暴弓 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Admin has choosed stage 2 |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Bridge gate opens in 10 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 桥梁大门将在 10 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Gate opens in 30 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 门在30秒后开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Someone is trying to interrupt us |",
+    "en_trans": "",
+    "zh_trans": "| 有人正试图干扰我们 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Portal gates opens in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "| 传送门在15秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Church gate opens in 25 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 教堂大门将在 25 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Defend until the portals opens |",
+    "en_trans": "",
+    "zh_trans": "| 坚守到传送门打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| The portals are open fall back ! |",
+    "en_trans": "",
+    "zh_trans": "| 传送门打开了,快走 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Press the two levers on the bottom part to open the gate |",
+    "en_trans": "",
+    "zh_trans": "| 按下底部的两个控制杆以打开大门 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Zombies teleport in 10 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 僵尸在10秒后传送 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Press the two levers on top to open the portal gates |",
+    "en_trans": "",
+    "zh_trans": "| 按下顶部的两个控制杆以打开传送门大门 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Abyss guardian gate open in 15 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 深渊守护者大门将在 15 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Abyss guardian has casted Frozen abyss |",
+    "en_trans": "",
+    "zh_trans": "| 深渊守护者已施放出:冰封深渊 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Stay in the middle now ! |",
+    "en_trans": "",
+    "zh_trans": "| 现在待在中间位置 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Abyss guardian has casted Ice World **",
+    "en_trans": "",
+    "zh_trans": "** 深渊守护者已施放出:冰之世界 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Climb the side now ! **",
+    "en_trans": "",
+    "zh_trans": "** 现在爬上侧面 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Abyss guardian has been defeated |",
+    "en_trans": "",
+    "zh_trans": "| 深渊守护者已被击败 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Middle gate wont open |",
+    "en_trans": "",
+    "zh_trans": "| 中间的门不会打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Left gates opens in 25 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 左侧的门将在 25 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Right side gate opens in 15 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 右侧的门将在 15 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Press the two levers to open the castle doors |",
+    "en_trans": "",
+    "zh_trans": "| 按下两个控制杆以打开城堡大门 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Castle doors opens in 35 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 城堡大门将在 35 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Gate break in 20 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 大门将在 20 秒后攻破 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Shortcut opening |",
+    "en_trans": "",
+    "zh_trans": "| 捷径正在开启 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Climb the side of the church and press the lever |",
+    "en_trans": "",
+    "zh_trans": "| 爬上教堂的侧面并按下控制杆 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Shortcut gate opens in 45 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 捷径大门将在 45 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "| Final gate opens in 20 seconds |",
+    "en_trans": "",
+    "zh_trans": "| 最后一道门将在 20 秒后打开 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "| 10 more seconds ! |",
+    "en_trans": "",
+    "zh_trans": "| 还有 10 秒 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "| You successfully escaped the Abyss ! |",
+    "en_trans": "",
+    "zh_trans": "| 你成功逃离了深渊 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "stripper已加载,所有NPC和BOSS血量变为原本的1.7倍",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "stripper已加载,所有NPC和BOSS血量变为原本的1.7倍(终点龙1.4倍)",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Mission failed |",
+    "en_trans": "",
+    "zh_trans": "| 任务失败 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Zombies have reached the last door |",
+    "en_trans": "",
+    "zh_trans": "| 僵尸已经到达了最后一扇门 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Extreme Mode enable next round. |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| Zombie have reached the objective.. |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| All items will spawn in the temple |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

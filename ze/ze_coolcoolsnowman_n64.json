@@ -1,0 +1,335 @@
+[
+  {
+    "original": "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD",
+    "en_trans": "",
+    "zh_trans": "地图作者：BLUE BLUE，在MAPEADORES DISCORD的帮助下完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WE WILL BE FREE IN 20 SECONDS ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 20 秒后我们就自由了！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** WAIT 20 SECONDS FOR THE ICE TO MELT ***",
+    "en_trans": "",
+    "zh_trans": "*** 等待 20 秒让冰融化 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE PATH IS CLEAR ! GO GO GO ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 道路畅通! GO GO GO ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WAIT 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 等待 15 秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** SO LONG EH SNOW WAVES ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 再见，雪浪 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** SHOOT THE BOX ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 射击那个盒子! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE GIANT SHELL WILL MOVE IN 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 巨大龟壳将在 15 秒后移动 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** COLLECT THE 8 RED COINS TO OPEN THE DOOR ***",
+    "en_trans": "",
+    "zh_trans": "*** 集齐8个红色硬币以打开那个门 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ELEVATOR WILL MOVE IN 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯将在 15 秒后移动 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE ICE ON THE LADDER WILL MELT IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 梯子上的冰将在 20 秒后融化 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** ZOMBIES TP TO THE PENGUIN IN 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 15 秒后僵尸传送到企鹅那 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** WE FOUND THE STAR ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 我们找到了幸运星 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND THE SNOWMAN'S HEAD FOR 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 守住雪人的头 20 秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE GREAT COLD WILL KILL EVERYTHING BELOW ***",
+    "en_trans": "",
+    "zh_trans": "*** 极寒会杀死下方的一切 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE ELEVATOR WILL BE ACCESSIBLE IN 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯 10 秒后可用 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE ELEVATOR WILL MOVE IN 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯 10 秒后移动 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE FLOWER PUSH WILL START IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 花朵将在 20 秒后生成上升气流 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** LET'S FLY ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 起飞 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE ICE WALL WILL BREAK IN 20 SECONDS ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 冰墙将在 20 秒后摧毁 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** LET'S A-GO ! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND 25 SECONDS 'TILL THE SNOWMAN MELT ***",
+    "en_trans": "",
+    "zh_trans": "*** 防守 25 秒直到雪人融化 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** FALL BACK ***",
+    "en_trans": "",
+    "zh_trans": "*** 撤退 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND UNTIL THE CHIMNEY IS REACHABLE ***",
+    "en_trans": "",
+    "zh_trans": "*** 守住，直到能碰到烟囱为止 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE PLATEFORM WILL MOVE IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 平台将在 20 秒后移动 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE PLATEFORM WILL MOVE UP IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 平台将在 20 秒后上升 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** SHOOT THIS WALL TO OPEN A PATH !! ***",
+    "en_trans": "",
+    "zh_trans": "*** 射击这堵墙来打开一条通路 !! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FALL BACK ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 撤退 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND 15 SECONDS UNTIL THE FLOOR BREAK ***",
+    "en_trans": "",
+    "zh_trans": "*** 防守 15 秒直到地板碎裂 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** DEFEND 30 SECONDS 'TIL THE BRIDGE COLLAPSE ***",
+    "en_trans": "",
+    "zh_trans": "*** 防守 30 秒直到桥塌 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE DOOR WILL OPEN IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 20 秒后开门 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** PENGUIN WILL MOVE IN 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 企鹅将在 15 秒后移动 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE DOORS WILL OPEN IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 20 秒后开门 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** HERE WE GO ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 我们出发吧 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WE FOUND THE SECRET STAR ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 我们找到了秘密星星 ! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND FOR 20 LAST SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 进行最后的 20 秒防御 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** DEFEND FOR 30 LAST SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 进行最后的 30 秒防御 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  }
+]
