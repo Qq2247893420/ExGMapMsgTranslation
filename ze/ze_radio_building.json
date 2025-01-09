@@ -1,96 +1,87 @@
 [
   {
-    "original": "**Stage1**",
+    "original": "*** Climb this radio building ***",
     "en_trans": "",
-    "zh_trans": "**第一关**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "**Map By artesurf**",
+    "original": "*** Entrance will open in 15 seconds ***",
     "en_trans": "",
-    "zh_trans": "**地图作者:artesurf**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**hold here until a door is open somewhere**",
-    "en_trans": "",
-    "zh_trans": "**在此处坚守，直到某处的门打开**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The Door is open in 25seconds**",
-    "en_trans": "",
-    "zh_trans": "**门将在 25 秒后打开** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
+    "timer_num": 15,
     "enable_timer": 1
   },
   {
-    "original": "**Teleporter is open in 10seconds**",
+    "original": "*** Map created by thas ***",
     "en_trans": "",
-    "zh_trans": "**传送器将在 10 秒后开启** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Hold here untile the rock explodes**",
-    "en_trans": "",
-    "zh_trans": "**在此处坚守，直到岩石爆炸**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "**The Door is open in 30seconds**",
+    "original": "*** Entrance is opening ***",
     "en_trans": "",
-    "zh_trans": "**门将在 30 秒后打开** ",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Accessing,shutter will open in 20 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Shutter is opening ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** More hold to get weapons !! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Shutter will open in 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
     "enable_timer": 1
   },
   {
-    "original": "**Boss is dead,fall back!**",
+    "original": "*** Shutter will open in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "**Boss已死,撤退!**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**final 25seconds**",
-    "en_trans": "",
-    "zh_trans": "**最后 25 秒** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": "**STAGE1 Won**",
-    "en_trans": "",
-    "zh_trans": "**第一关胜利**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Stage2**",
+    "original": "*** Elevator is offline,need to restore the power ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Hole here**",
+    "original": "*** Power is restoring,back to defence ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,7 +99,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**the door is open in 20seconds**",
+    "original": "*** Elevertor power is restored,now you can activate the elevator ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,7 +108,25 @@
     "enable_timer": 0
   },
   {
-    "original": "**the door is open in 15seconds**",
+    "original": "*** Elevator will leave in 20 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Elevator will leave in 5 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Helicopter is here ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,43 +135,34 @@
     "enable_timer": 0
   },
   {
-    "original": "**It went into rage**",
+    "original": "*** It will leave in 45 seconds ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
-    "original": "**Wind**",
+    "original": "*** It will leave in 10 seconds ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
-    "original": "**Boss is dead!**",
+    "original": "*** It will leave in 5 seconds ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
-    "original": "**30seconds left**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Stage2 won**",
+    "original": "*** Nuke is coming !! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

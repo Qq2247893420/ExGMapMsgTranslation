@@ -785,7 +785,7 @@
   {
     "original": "*** Metal gate open in 10 sec ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 金属门将在 10 秒后打开 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -820,6 +820,33 @@
   },
   {
     "original": "< 僵尸深渊监视者/米诺斯突进技能已解锁！ >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "检测到有僵尸在终点,核爆已锁定.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 赞助者 水银灯 加入了派对! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 赞助者 kirito 加入了派对! >",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

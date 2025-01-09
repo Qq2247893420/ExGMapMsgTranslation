@@ -1,6 +1,6 @@
 [
   {
-    "original": "...我们怎么昏迷了这么久...NPST事件才过去几小时",
+    "original": "我们已经进入了琪亚娜的记忆中",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>...请求回复",
+    "original": "环境数据匹配中.....",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "长官，我们在",
+    "original": "环境数据匹配完成",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>士兵们，干得好，我以为要再也见不到你们了呢，接下来我复述本次行动目标...",
+    "original": "匹配结果:巴比伦实验室!!!!!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +36,7 @@
     "enable_timer": 0
   },
   {
-    "original": "等会？...他妈的，左边办公室里好像有什么动静...",
+    "original": "该死,琪亚娜怎么会有巴比伦实验室的记忆?",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,7 +45,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>发生了什么？",
+    "original": "检测到大量死士出没!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,7 +54,7 @@
     "enable_timer": 0
   },
   {
-    "original": "报告，有不知名生物在攻击我们...",
+    "original": "准备迎战坚守到舱门关闭!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,7 +63,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>...鉴于目前情况，我部现将你们的行动代号更改为“GooseStep”，你们的任务不变...",
+    "original": "舱门已成功关闭!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +72,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>收集一切在哈夫克设施内有关NPST协议的情报，然后活着带回总部...去其他有收音电台的地方再联系我",
+    "original": "检测到大量死士从后方接近中......",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +81,7 @@
     "enable_timer": 0
   },
   {
-    "original": "遵命，长官！",
+    "original": "该死!这些死士到底是从哪里来的?",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>祝武运昌隆",
+    "original": "是第二律者,她正向我们这边传送死士!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,34 +99,151 @@
     "enable_timer": 0
   },
   {
-    "original": "<40>",
+    "original": "往上跑,快快快!",
     "en_trans": "",
     "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "该死,上面也有死士出现!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "快到桥上!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "趁下一波攻击到来前,赶紧离开这里",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "门被锁住了,我们没有磁卡需要时间破解!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "闸门破解完成!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "这么高的崩坏能浓度是怎么回事!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "快启动安全系统降低崩坏能浓度不然我们无法继续前进!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "系统启动中.......崩坏能浓度正在下降......",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "崩坏能浓度已降低至安全水平!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ok!现在我们去把那个该死的崩坏炉关掉否者第二律者会更加强大",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "崩坏炉关闭程序启动中!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "守住这里,直到崩坏炉彻底关闭!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "崩坏炉已关闭",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "检测到虚数空间波动大量死士接近中!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "已呼叫电梯！等待40秒",
+    "en_trans": "",
+    "zh_trans": "已呼叫电梯！等待40秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": "<35>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
-  },
-  {
-    "original": "<50>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
-  },
-  {
-    "original": "<总部>据情报，地下设施中拥有一份弥足珍贵的文件，找到它",
+    "original": "去控制中心调查一下是怎么回事!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,16 +252,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<30>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "<总部>各单位注意，哈夫克武装直升机正在往你们的方位靠拢，立刻做好战斗准备",
+    "original": "守住!等待电梯到来!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +261,7 @@
     "enable_timer": 0
   },
   {
-    "original": "这个平台上有一把固定机枪，他看上去似乎还能运转",
+    "original": "里面就是控制中心了坚持到闸门破解完成!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,16 +270,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<60>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
-  },
-  {
-    "original": "他们要从后面涌出来了！",
+    "original": "快利用控制台关闭闸门",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,7 +279,7 @@
     "enable_timer": 0
   },
   {
-    "original": "这个电梯似乎坏了...不过我们可以撬开这个下水道口，这能让我们上到办公区",
+    "original": "闸门已关闭数据传输中......",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -189,7 +288,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>救援你们的Federation小队已经在路上了...按计划去指定位置和他们碰头",
+    "original": "该死!她发现我们了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,7 +297,7 @@
     "enable_timer": 0
   },
   {
-    "original": "守住这个控制室，直到我们修改前台权限",
+    "original": "守住,等待数据传输完成",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +306,7 @@
     "enable_timer": 0
   },
   {
-    "original": "前面的门被堵住了...仔细听，我们脚下有水流声",
+    "original": "数据传输已完成!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,7 +315,7 @@
     "enable_timer": 0
   },
   {
-    "original": "我有一个点子...",
+    "original": "守住这里!等待电梯到来",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -225,7 +324,7 @@
     "enable_timer": 0
   },
   {
-    "original": "给炸药一点时间预热",
+    "original": "快撤!快撤!赶紧进电梯!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -234,7 +333,7 @@
     "enable_timer": 0
   },
   {
-    "original": "当心！直升机要往下面攻击了",
+    "original": "上面被不知名的力量封锁了,正在尝试破解",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,7 +342,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>你们需要获取一层实验室的实验样本，另据可靠消息，二层的办公区有着一块存储机密信息的U盘...",
+    "original": "封锁已解除！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,7 +351,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<总部>...但这并非本次任务目标，不必勉强自己，祝你们好运",
+    "original": "是琪亚娜!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -261,7 +360,7 @@
     "enable_timer": 0
   },
   {
-    "original": "当前结局：<未断脊梁>",
+    "original": "她的情况不对劲！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -270,97 +369,7 @@
     "enable_timer": 0
   },
   {
-    "original": "让终章奏响...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<总部>GooseStep小队，我很遗憾通知你们，我部暂时与你们的增援Federation小队失联...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<总部>如果你们没有其他方法撤离，就按原定计划去指定地点等待Federation小队接应",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "遵命...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "后面是一片火场，我们已经无路可退了...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "我出现幻觉了吗...身后的火焰竟然正在消散？",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "是Federation小队...我们得救了吗？",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<Federation>报告总部，我队路上遭遇敌袭，短暂失联...但是我们已经抵达任务目的地了",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<总部>干的很好...GooseStep小队呢？",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<Federation>...（沉默）我们没有发现GooseStep小队的幸存者，只找到了几具队员遗体...以及他们誓死保卫下来的情报",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "当心！直升机要往上面的平台攻击了",
+    "original": "她向我们发动攻击了！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
