@@ -146,7 +146,7 @@
   {
     "original": "The box will be cleared in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "这个箱子 120 秒后清除",
+    "zh_trans": "这个箱子 20 秒后清除",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -250,5 +250,14 @@
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
+  },
+  {
+    "original": "谁家小马！",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

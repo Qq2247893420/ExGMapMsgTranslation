@@ -221,8 +221,8 @@
     "zh_trans": "< 基石判决（远离中间） >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<SCP-106 has been defeated>",
@@ -248,8 +248,8 @@
     "zh_trans": "<守住A大门（boss出现时僵尸方向会随机一刀高低刀）>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<What the.......?>",
@@ -380,7 +380,7 @@
   {
     "original": "< Detonating The Alpha Warheads in T-Minus 90 seconds >",
     "en_trans": "",
-    "zh_trans": ""< 90秒后引爆T-Minus设施的阿尔法弹头>",
+    "zh_trans": "< 90秒后引爆T-Minus设施的阿尔法弹头>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -389,7 +389,7 @@
   {
     "original": "< Detonating The Alpha Warheads in T-Minus 30 seconds >",
     "en_trans": "",
-    "zh_trans": ""< 30秒后引爆T-Minus设施的阿尔法弹头>",
+    "zh_trans": "< 30秒后引爆T-Minus设施的阿尔法弹头>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -399,6 +399,15 @@
     "original": "< Game Over >",
     "en_trans": "",
     "zh_trans": "< 游戏结束 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< FAILED >",
+    "en_trans": "",
+    "zh_trans": "< 失败 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

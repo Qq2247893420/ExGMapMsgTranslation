@@ -1,0 +1,56 @@
+[
+  {
+    "original": "-40s-",
+    "en_trans": "",
+    "zh_trans": "-40s-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "-30s-",
+    "en_trans": "",
+    "zh_trans": "-30s-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "-60s-",
+    "en_trans": "",
+    "zh_trans": "-60s-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "-20s-",
+    "en_trans": "",
+    "zh_trans": "-20s-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***一楼的阀门已触发***",
+    "en_trans": "",
+    "zh_trans": "***一楼的阀门已触发***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***二楼的阀门已触发***",
+    "en_trans": "",
+    "zh_trans": "***二楼的阀门已触发***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

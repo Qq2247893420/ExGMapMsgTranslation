@@ -774,15 +774,6 @@
     "enable_timer": 0
   },
   {
-    "original": "小南梁星梦",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
     "original": "地图摔伤已开启！！！！",
     "en_trans": "",
     "zh_trans": "",
@@ -812,7 +803,7 @@
   {
     "original": "** RMZS VERSION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "RMZS 版本",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +812,7 @@
   {
     "original": "** Bridge is rotating in 30 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥将在30秒后旋转过来",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -830,7 +821,7 @@
   {
     "original": "** ZOMBIEDEN VERSION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ZED 版本",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +830,7 @@
   {
     "original": "** WARNING: Meteor is incoming... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "警告: 天谴来袭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +839,7 @@
   {
     "original": "** ELEVATOR IS ABOUT TO EXPLODE... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯即将爆炸",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,11 +848,11 @@
   {
     "original": "摔伤已暂时关闭,30秒后再次开启",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "摔伤已暂时关闭,30秒后再次开启",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "摔伤已重新开启",
@@ -875,7 +866,7 @@
   {
     "original": "** ULTIMA GOT BOOMED. SHALAKAKA... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "终极被调换位置了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +875,7 @@
   {
     "original": "** OH NO! BANKER IS CLOSED! GO LEFT SIDE!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "哦不！终点房已关闭，我们得走左边了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -893,7 +884,7 @@
   {
     "original": "** FINAL DOOR OPENS IN 30S **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最终大门将在30秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -902,7 +893,7 @@
   {
     "original": "** ALL MATERIAS ARE DISABLED!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "所有神器已被禁用",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +902,7 @@
   {
     "original": "** 5 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 5 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -920,7 +911,7 @@
   {
     "original": "** 4 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 4 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -929,7 +920,7 @@
   {
     "original": "** 3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 3 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -938,7 +929,7 @@
   {
     "original": "** 2 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 2 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -947,7 +938,7 @@
   {
     "original": "** 1 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 1 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -956,7 +947,7 @@
   {
     "original": "** RUUUUUUUUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快跑！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +956,7 @@
   {
     "original": "** THE REACTOR IS GOING TO EXPLODE!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "反应炉即将爆炸!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +965,7 @@
   {
     "original": "** WE HAVE TO ESCAPE FROM HERE!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们必须逃离这里",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +974,7 @@
   {
     "original": "** YOU HAVE ONLY 30 SECONDS TO KILL SEPHIROTH! ** SHOOT HIM!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类有30秒的时间来击败萨菲罗斯",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -992,16 +983,115 @@
   {
     "original": "** Congratulations! YOU WON Extreme3 ZED version! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "恭喜！成功通关ZED EX3版本",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "摔伤已暂时关闭,30S后再次开启",
+    "original": "** SRZS VERSION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "SRZS EX3版本",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Elevator is leaving in 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "电梯将在10秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** EXPLOSION IN 100 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "100 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": "** YOU HAVE FAILED **",
+    "en_trans": "",
+    "zh_trans": "你失败了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** CURRENT DIFFICULTY ** >> EXTREME IV << **",
+    "en_trans": "",
+    "zh_trans": "** 当前难度 ** >> EX 4 << **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ZEDDYS VERSION **",
+    "en_trans": "",
+    "zh_trans": "** ZEDDYS 版本 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** >> WARNING! REACTOR CORE UNSTABLE << **",
+    "en_trans": "",
+    "zh_trans": "** >> 警告！魔晄炉核心不稳定 << **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** >> IT IS RECOMMENDED YOU STAY INDOORS << **",
+    "en_trans": "",
+    "zh_trans": "** >> 建议您待在室内 << **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Bridge is rotating in 45 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 桥梁将在 45 秒后旋转 ** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "** WELCOME TO EXTREME 4! **",
+    "en_trans": "",
+    "zh_trans": "** 尽情享受EX4难度吧! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** CURRENT DIFFICULTY ** >> EXTREME II << **",
+    "en_trans": "",
+    "zh_trans": "** 当前难度 ** >> EX 2 << **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** HEAL AND ULTIMA ONLY AVAILABLE AT THE CORE **",
+    "en_trans": "",
+    "zh_trans": "** 治疗和终极只有在魔晄炉核心处才能找到 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

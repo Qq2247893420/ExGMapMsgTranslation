@@ -556,5 +556,113 @@
     "kr_trans": "",
     "timer_num": 50,
     "enable_timer": 1
+  },
+  {
+    "original": "# ITEM RESTRICTION - SANDBAG WALL #",
+    "en_trans": "",
+    "zh_trans": "# 限定道具 - 沙袋墙 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# ITEM RESTRICTION - UNLIMITED AMMO #",
+    "en_trans": "",
+    "zh_trans": "# 限定道具 - 无限弹药 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> GATE OPEN IN 30 SECONDS <!!!>",
+    "en_trans": "",
+    "zh_trans": "<!!!> 大门将在 30 秒后开启 <!!!>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "# ITEM RESTRICTION - FLAMETHROWER #",
+    "en_trans": "",
+    "zh_trans": "# 限定道具 - 火焰喷射器 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# ITEM RESTRICTION - BLACK MAGIC #",
+    "en_trans": "",
+    "zh_trans": "# 限定道具 - 黑魔法 #",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# FALL BACK - DOOR #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TURN TRAM POWER ON #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# GO GO #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "# TRAM START IN 30 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "# FINAL DOOR CLOSING IN 50 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "# 40 SECONDS #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> MAP COMPLETED <!!!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

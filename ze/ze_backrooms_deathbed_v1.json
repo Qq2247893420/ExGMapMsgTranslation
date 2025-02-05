@@ -592,5 +592,50 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "> Backrooms Deathbed < ver 1.4",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> If the music too loud,Type snd_musicvolume 0 ~ 1 in Console to adjust. <",
+    "en_trans": "",
+    "zh_trans": "> 如果音乐太大,请在控制台中输入 snd_musicvolume 0 ~ 1 进行调整。<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> You have beat the map,Thanks for your playing! <<",
+    "en_trans": "",
+    "zh_trans": ">> 您已通关此地图，感谢游玩！<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Smiler is near if your screen flash red,Be aware! <<",
+    "en_trans": "",
+    "zh_trans": ">> 闪烁红光代表笑魇就在附近,警惕! <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 闪烁红光代表笑魇就在附近,警惕! <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

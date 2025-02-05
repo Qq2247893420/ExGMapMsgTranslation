@@ -457,5 +457,14 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": ">>> ADMIN HAS DISABLED D INSANE MODE <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 管理员已关闭 关卡 D 疯狂模式（D INSANE） <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

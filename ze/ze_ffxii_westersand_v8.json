@@ -1276,5 +1276,23 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "** Congratulations - You won [HARD - INSANE] **",
+    "en_trans": "",
+    "zh_trans": "** 恭喜 - 你通关了 [困难 - 疯狂难度] **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Congratulations - You won [EXTREME - INSANE] **",
+    "en_trans": "",
+    "zh_trans": "** 恭喜 - 你通关了 [极限 - 疯狂难度] **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

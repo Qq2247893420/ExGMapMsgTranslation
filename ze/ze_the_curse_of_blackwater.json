@@ -497,7 +497,7 @@
   {
     "original": "The doors will close in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 15 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -506,7 +506,7 @@
   {
     "original": "Door to 2-nd lab will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往第二实验室的门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -515,16 +515,16 @@
   {
     "original": "OK we found 6 keycards now we can enter to second part of the lab",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "好，我们现在找到了6张钥匙卡，这样我们就可以进入实验室的第二部分了",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Door to 2-nd lab will open in 25 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往第二实验室的门将在 25 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -533,7 +533,7 @@
   {
     "original": "We need to gather chemicals for the bomb that will clear the way",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们需要收集用于制造炸弹的化学物品，以便清除障碍继续前进",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,16 +542,16 @@
   {
     "original": "Doors to left side of the lab will open in 5sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "实验室左侧的门将在 5 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "Find the key for left side of experimental rooms",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "找到实验室左侧的钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "The doors to will open in 10 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 10 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -569,7 +569,7 @@
   {
     "original": "We need to activate all levers to power up doors that jammed with stones",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们需要激活所有控制杆，为被石头卡住的门提供动力使其恢复正常",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "Door to the right side of the lab will open in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往实验室右侧的门将会在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -587,7 +587,7 @@
   {
     "original": "Door into office will open in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "进入办公室的门将在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -596,7 +596,7 @@
   {
     "original": "Pull the lever",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "拉动控制杆",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "The door will open in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这扇门将在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -614,7 +614,7 @@
   {
     "original": "The door will close in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这扇门将会在 15 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -623,7 +623,7 @@
   {
     "original": "NICE! we got power back, all is left are chemicals for the bomb",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "太好了！我们恢复了电力，剩下的就只是制造炸弹所需的化学药品了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "Door to storage room will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往储藏室的门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -641,7 +641,7 @@
   {
     "original": "We need crowbar to remove wooden blocks from wardrobe",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们需要撬棍来移除衣柜上的木块",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "Pick up the key from locked office, you will find crowbar there",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "从上锁的办公室拿起钥匙，你会在那里找到撬棍",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "Door into office will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "进入办公室的门将会在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -668,10 +668,109 @@
   {
     "original": "We finally got crowbar, now we can remove wooden blocks",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "终于拿到撬棍了，现在我们可以移除那些木块了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "NICE! we have 1 out of 3 chemicals",
+    "en_trans": "",
+    "zh_trans": "太棒了！我们找到了1/3的化学药品。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Door to storage room will open in 30 sec",
+    "en_trans": "",
+    "zh_trans": "通往储藏室的门将在 30 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "We found 2-nd chemical, last one is on the left side of the lab",
+    "en_trans": "",
+    "zh_trans": "我们找到了第二种化学药品，最后一种在实验室的左侧",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Frenchy is retarded, just pick up the meat",
+    "en_trans": "",
+    "zh_trans": "弗兰奇真是个蠢货，赶紧把肉捡起来",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hunter will break the storage room door in 30 sec",
+    "en_trans": "",
+    "zh_trans": "将在 30 秒后打开储藏室的门",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Bomb is ready we are good to go",
+    "en_trans": "",
+    "zh_trans": "炸药准备完毕，我们可以出发了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Omg! We need to kill that hunter",
+    "en_trans": "",
+    "zh_trans": "天哪！我们得干掉那个猎人。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The door will open in 30 sec",
+    "en_trans": "",
+    "zh_trans": "门将在 30 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "AFK TELEPORT IN 15 SECOND",
+    "en_trans": "",
+    "zh_trans": "挂机玩家将在 15 秒后传送 ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "The door to the sewer will open in 40 sec",
+    "en_trans": "",
+    "zh_trans": "通往下水道的门将在 40 秒后打开 ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "The door to the sewer will close in 10 sec",
+    "en_trans": "",
+    "zh_trans": "通往下水道的门将在 10 秒后关闭 ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
   }
 ]

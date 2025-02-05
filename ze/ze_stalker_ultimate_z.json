@@ -308,7 +308,7 @@
   {
     "original": "**Gate 1 will open in 8 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**1 号门将在 8 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -317,7 +317,7 @@
   {
     "original": "**Gate 4 will open in 8 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**4 号门将在 8 秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -326,7 +326,7 @@
   {
     "original": "**A player picked up flash**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了闪光**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "**A player picked up meatchunk**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了肉块**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "**Lab door 1 will open in 11 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**实验室 1 号门将在 11 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 11,
@@ -353,7 +353,7 @@
   {
     "original": "**Lab door 1 will open for zombies in 18 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**实验室 1 号门将在 18 秒后为僵尸打开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 18,
@@ -362,7 +362,7 @@
   {
     "original": "<<Got information on half the unknown modules>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<已获取一半未知模块的信息>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "**The gates are closing.**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门正在关闭**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "** LEVEL COMPLETED!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 关卡完成!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,10 +389,325 @@
   {
     "original": "**Get to the bunker and defend it**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**前往地堡并守卫它**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "The boss battle starts in ten seconds",
+    "en_trans": "",
+    "zh_trans": "BOSS战将在 10 秒后开始 ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The BloodSucker is dead.Run!**",
+    "en_trans": "",
+    "zh_trans": "**血魔已死。快跑！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**A player picked up nightstar**",
+    "en_trans": "",
+    "zh_trans": "**一名玩家捡起了夜星**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**OPENING THE GATES (30 SECONDS)**",
+    "en_trans": "",
+    "zh_trans": "**正在开启大门(30 秒) **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The door wil open in 10 seconds**",
+    "en_trans": "",
+    "zh_trans": "**门将在 10 秒后打开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**We don't have much time. Get the document**",
+    "en_trans": "",
+    "zh_trans": "**我们的时间不多了。去拿文件**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<Got the Document>>",
+    "en_trans": "",
+    "zh_trans": "<<已拿到文件>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The door has rusted so much that it can't be opened**",
+    "en_trans": "",
+    "zh_trans": "**这扇门生锈太严重，已经打不开了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**We need to blow this door open**",
+    "en_trans": "",
+    "zh_trans": "**我们需要炸开这扇门**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The door blew open. Get out of here with the Document**",
+    "en_trans": "",
+    "zh_trans": "**门被炸开了。带着文件离开这里**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The documents are here!**",
+    "en_trans": "",
+    "zh_trans": "**文件在这儿！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**We are too close!**",
+    "en_trans": "",
+    "zh_trans": "**我们靠得太近了！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend a bit**",
+    "en_trans": "",
+    "zh_trans": "**稍微防守一下**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The door will explode in a few seconds!**",
+    "en_trans": "",
+    "zh_trans": "**这扇门几秒后就会爆炸！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**RUN RUN RUN!!!**",
+    "en_trans": "",
+    "zh_trans": "**走走走!!!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Prototype N62 was picked up**",
+    "en_trans": "",
+    "zh_trans": "**N62 原型被拾起**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<Gauss gun is out of ammo>>",
+    "en_trans": "",
+    "zh_trans": "<<高斯枪 弹药已耗尽>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<BloodSucker has appeared>>",
+    "en_trans": "",
+    "zh_trans": "<<血魔出现了>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**",
+    "en_trans": "",
+    "zh_trans": "**管理员已调关至 第五关**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<I found something interesting>>",
+    "en_trans": "",
+    "zh_trans": "<<我发现了一些有趣的东西>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombie WIN***",
+    "en_trans": "",
+    "zh_trans": "***僵尸胜利***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Level 3 >>",
+    "en_trans": "",
+    "zh_trans": "<< 第三关 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**GO INTO THE TELEPORTER***",
+    "en_trans": "",
+    "zh_trans": "**快进传送***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Take a break, find a few things and move on**",
+    "en_trans": "",
+    "zh_trans": "**休息一下，找些东西然后继续前进**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**NOW WE ARE READY TO GO**",
+    "en_trans": "",
+    "zh_trans": "**现在准备出发了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The weather is getting worse and worse**",
+    "en_trans": "",
+    "zh_trans": "**天气变得越来越糟**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**We'll be out of here in no time**",
+    "en_trans": "",
+    "zh_trans": "**我们很快就会离开这里**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Wait a minute**",
+    "en_trans": "",
+    "zh_trans": "**稍等片刻**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Get out of here**",
+    "en_trans": "",
+    "zh_trans": "**离开这里**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**DON'T LET HIM TO FAIL US!!**",
+    "en_trans": "",
+    "zh_trans": "**别让他打败我们！！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**PLAY AS YOU CAN**",
+    "en_trans": "",
+    "zh_trans": "**拼尽全力**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**",
+    "en_trans": "",
+    "zh_trans": "**你已接近胜利**坚持住**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**THE END TELEPORTER WILL OPEN SOON**",
+    "en_trans": "",
+    "zh_trans": "*最终传送器很快就会开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Level 4 >>",
+    "en_trans": "",
+    "zh_trans": "<< 第四关 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Electromagnetic storm approaching in 50 seconds**",
+    "en_trans": "",
+    "zh_trans": "**电磁风暴将在 50 秒后逼近** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
   }
 ]

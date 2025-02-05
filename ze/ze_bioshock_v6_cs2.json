@@ -749,16 +749,16 @@
   {
     "original": "*ADMIN Room: Next round set to Chapter 1*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*调关房: 下回合为 第一章*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*ADMIN Room: Difficulty permanently set to EASY*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*调关房: 难度已永久设置为 简单*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">>Wait for corridor to drain...<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待走廊里的水排干...<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">>Hold until the security door unlocks<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守到安全门解锁<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": ">>Detonate and Destroy the tunnel<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>引爆炸药摧毁隧道<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": ">>Splicers must not make it past the marker<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>绝不能让基因改造人越过标记处<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -883,6 +883,312 @@
   },
   {
     "original": ">>>Chapter failed<<<",
+    "en_trans": "",
+    "zh_trans": ">>>章节失败<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>SECRET: Found the Airship Token<<",
+    "en_trans": "",
+    "zh_trans": ">>秘密：找到了飞艇代币<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*ADMIN Room: Difficulty permanently set to HARD*",
+    "en_trans": "",
+    "zh_trans": "*调关房: 难度已永久设置为 困难*",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>SECRET: Found the Vox Populi Token<<",
+    "en_trans": "",
+    "zh_trans": ">>秘密：找到了人民呼声代币<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Extra Chapter - 1999<<",
+    "en_trans": "",
+    "zh_trans": ">>额外章节 - 1999<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>1999 is a special mode<<",
+    "en_trans": "",
+    "zh_trans": ">>1999模式是一个跨越所有地点的一关制的挑战模式<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Its long and difficult<<",
+    "en_trans": "",
+    "zh_trans": ">>这个模式会比前四关难，全流程大约需要14-20分钟<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Enjoy it<<",
+    "en_trans": "",
+    "zh_trans": ">>祝各位轻松拿下，玩得愉快！<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Wait for the storage doors to open - 60<<",
+    "en_trans": "",
+    "zh_trans": ">>等待仓库门开 - 60 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>There are 2 ways to go. Someone must take the upper path<<",
+    "en_trans": "",
+    "zh_trans": ">>有两条路可走。必须有人走上面那条路<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>They must go and open the lower door from behind<<",
+    "en_trans": "",
+    "zh_trans": ">>他们必须从后面打开下面那扇门<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Wait for access to Fort Frolic<<",
+    "en_trans": "",
+    "zh_trans": ">>等待进入欢乐堡的通道开启<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Wait for access to the Bathysphere - 35s<<",
+    "en_trans": "",
+    "zh_trans": ">>等待进入深海球形潜水器 - 35 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Hold the Wineries - 25s<<",
+    "en_trans": "",
+    "zh_trans": ">>坚守酒庄 - 25 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>All emblems obtained<<<",
+    "en_trans": "",
+    "zh_trans": ">>>所有徽章已获取<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Kill the Patriot<<",
+    "en_trans": "",
+    "zh_trans": ">>除掉机动爱国者<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>A Patriot is awake. Kill it!<<<",
+    "en_trans": "",
+    "zh_trans": ">>>机动爱国者苏醒了。干掉它！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Wait for rail access - 15s<<",
+    "en_trans": "",
+    "zh_trans": ">>等待轨道放行 - 15 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>Jump onto the rail!<<<",
+    "en_trans": "",
+    "zh_trans": ">>>跳上轨道！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>You must wait for the islands to align - 30s<<",
+    "en_trans": "",
+    "zh_trans": ">>须待浮空岛完成校准，方可继续 - 30 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Wait for garden access - 20s<<",
+    "en_trans": "",
+    "zh_trans": ">>等待花园开启 - 20 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Service must end before you may enter - 25s<<",
+    "en_trans": "",
+    "zh_trans": ">>接受洗礼之后才能进入 - 25 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Elizabeth is searching for a tear - 50s<<",
+    "en_trans": "",
+    "zh_trans": ">>伊丽莎白正在寻找时空裂隙 - 50 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Wait for the security door to open - 20s<<",
+    "en_trans": "",
+    "zh_trans": ">>等待安全门打开 - 20 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Defend while the door opens - 50s<<",
+    "en_trans": "",
+    "zh_trans": ">>守到门开 - 50 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Defend until the doors close - 15s<<",
+    "en_trans": "",
+    "zh_trans": ">>守至门关 - 15 秒<< ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>Tip: The Songbird is vulnerable only to headshots. Remember this<<",
+    "en_trans": "",
+    "zh_trans": ">>提示：夜莺只有头部中弹才会受伤害。记住这点<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>ELIZABETH: This is it! Defend the boat!<<<",
+    "en_trans": "",
+    "zh_trans": ">>>伊丽莎白：就是这样！守住我们的船！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Elizabeth can't control the tear! Teleport in 5 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>伊丽莎白无法控制自己的眼泪！5秒后传送僵尸<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>ELIZABETH: The boat! GET IN THE BOAT<<<",
+    "en_trans": "",
+    "zh_trans": ">>>伊丽莎白：那里有一艘船！赶快上船<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>CONGRATULATIONS!<<<",
+    "en_trans": "",
+    "zh_trans": ">>>全图通关!恭喜！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>TRUE ENDING OBTAINED<<<",
+    "en_trans": "",
+    "zh_trans": ">>>真结局达成<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>It's your chance. Kill the Songbird<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Congratulations<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Thank you for playing<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

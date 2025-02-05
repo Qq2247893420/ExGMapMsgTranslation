@@ -1,0 +1,173 @@
+[
+  {
+    "original": "MAP BY MIDRAN KIDRAN",
+    "en_trans": "",
+    "zh_trans": "地图作者；MIDRAN KIDRAN",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
+    "en_trans": "",
+    "zh_trans": "特别感谢MAPEADORES社区为地图提供测试服务器",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> THE DOOR OPENS IN 20 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门20秒后打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR CLOSES IN 15 SECONDS",
+    "en_trans": "",
+    "zh_trans": "门15秒后关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> DOORS OPEN IN 8 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门将在8秒后打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 0
+  },
+  {
+    "original": "!!! ZOMBIES TELEPORT INSIDE IN 5 SECONDS !!!",
+    "en_trans": "",
+    "zh_trans": "!!! 僵尸将在5秒后传送 !!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> GATE OPENS in 10 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 大门将在10秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> SHEET BLOWS UP IN 7 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 板子将在7秒后爆炸 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "!!! ZOMBIES TELEPORT IN 5 SECONDS !!!",
+    "en_trans": "",
+    "zh_trans": "!!! 僵尸将在5秒后传送 !!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> GATE OPENS IN 20 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 大门将在20秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> CRATES EXPLODE IN 25 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 板条箱堆将在25秒后爆炸 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "!!! WATCH OUT, IT'S GOING TO BLOW !!!",
+    "en_trans": "",
+    "zh_trans": "!!! 注意！箱子要炸了！ !!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ELEVATOR LEAVES IN 10 SECONDS",
+    "en_trans": "",
+    "zh_trans": "电梯10秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "THE BOSS WILL BE DAMAGEABLE IN 5 SECONDS",
+    "en_trans": "",
+    "zh_trans": "boss战将在5秒后开始（打碎上面的箱子以释放boss）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "GET OUT OF HERE, STALKER",
+    "en_trans": "",
+    "zh_trans": "你个跟踪狂，给我滚开！（秒杀伤害，远离boss）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "!!! ZOMBIES CAN NOW JUMP TO THE BOSS PLATFORM !!!",
+    "en_trans": "",
+    "zh_trans": "!!! 僵尸现在可以进攻boss平台上的人类了 !!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "!!! THE WALLS HOLDING BACK THE ZOMBIES WILL EXPLODE IN 8 SECONDS !!!",
+    "en_trans": "",
+    "zh_trans": "!!! 阻拦僵尸的墙壁将在8秒后爆炸 !!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": "!!! ZOMBIES TELEPORT IN 8 SECONDS !!!",
+    "en_trans": "",
+    "zh_trans": "!!! 僵尸将在8秒后传送 !!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> BOAT LEAVES IN 25 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 船将在25秒后离开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  }
+]

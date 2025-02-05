@@ -43,5 +43,158 @@
     "kr_trans": "",
     "timer_num": 30,
     "enable_timer": 1
+  },
+  {
+    "original": "<<Wait for 15sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<等待 15 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Afk tp in 10 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<挂机玩家将在 10 秒后传送>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Wait for 30 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<等待 30 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Afk teleport in 10 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<挂机玩家将在 10 秒后传送>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Hold the elevator for 20 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<守住电梯 20 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<10 sec remaining.>>",
+    "en_trans": "",
+    "zh_trans": "<<还剩 10 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Hold here for 25 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<在此坚守 25 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Hold here for 20 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<在这里坚守 20 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Resist for 25 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<抵抗 25 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Hold the platform for 20 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<守住平台 20 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Wait for 25 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<等待 25 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Afk teleport in 15 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<挂机玩家将在 15 秒后传送>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Doors will open in 25 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<门将在 25 秒后打开>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Hold the elevator for 40 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<守住电梯 40 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Hold for 85 sec.>>",
+    "en_trans": "",
+    "zh_trans": "<<坚守 85 秒>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 85,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Tears>>",
+    "en_trans": "",
+    "zh_trans": "<<眼泪>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<zombies>>",
+    "en_trans": "",
+    "zh_trans": "<<僵尸来了>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
