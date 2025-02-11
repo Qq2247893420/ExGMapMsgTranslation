@@ -1,8 +1,8 @@
 [
   {
-    "original": "> TRIGGER ACTIVATED <",
+    "original": "> ZE UT2004 CONVOY",
     "en_trans": "",
-    "zh_trans": "> 触发已激活 <",
+    "zh_trans": "> ZE UT2004 CONVOY - 虚幻竞技场",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -11,31 +11,20 @@
     "force_hint": 0
   },
   {
-    "original": "> CAVE TELEPORT ACTIVATING FOR 20 SECONDS <",
+    "original": "> NOVICE DIFFICULTY",
     "en_trans": "",
-    "zh_trans": "> 洞穴传送将在 20 秒后激活 <",
+    "zh_trans": "> 新手难度",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 20,
+    "timer_num": 1,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": "> CAVE TELEPORT ACTIVATED - FALL BACK <",
+    "original": "> Map by SubDelt@",
     "en_trans": "",
-    "zh_trans": "> 洞穴传送已激活 - 撤退 <",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
-  },
-  {
-    "original": "> 1 PERSON GO TRIGGER! <",
-    "en_trans": "",
-    "zh_trans": "> 1 个人去触发！<",
+    "zh_trans": "> 地图作者；SubDelt@",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -44,9 +33,9 @@
     "force_hint": 0
   },
   {
-    "original": "> OTHERS STAY DEFEND! <",
+    "original": "> Thanks to",
     "en_trans": "",
-    "zh_trans": "> 其他人留下来防守！<",
+    "zh_trans": "> 特别鸣谢；",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -55,9 +44,9 @@
     "force_hint": 0
   },
   {
-    "original": "> WHERE WE GO?: CAVE DOOR <",
+    "original": "> Cuniczek and Kaemon - helping with Propper",
     "en_trans": "",
-    "zh_trans": "> 我们去哪里？：洞穴门 <",
+    "zh_trans": "> Cuniczek and Kaemon - 帮助使用Propper",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -66,31 +55,75 @@
     "force_hint": 0
   },
   {
-    "original": "> JUST RUN | DONT DEFEND <",
+    "original": "> Kaesar - providing UT2004 models",
     "en_trans": "",
-    "zh_trans": "> 只管跑 | 不要防守 <",
+    "zh_trans": "> Kaesar - 提供虚幻竞技场2004模型",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
-    "original": "> Zombie Teleport For 20 Seconds. <",
+    "original": "> JorisCeoen - modeling help",
     "en_trans": "",
-    "zh_trans": "> 僵尸 20 秒后传送 <",
+    "zh_trans": "> JorisCeoen - 提供建模帮助",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 20,
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "> Enviolinador - lots of general help",
+    "en_trans": "",
+    "zh_trans": ">Enviolinador - 大量帮助",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 延伸平台以进入维修船 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "> BERSERK COMBO has been acquired",
+    "en_trans": "",
+    "zh_trans": "> 无限弹药已拾取（按e后wwss搓招使用，只有一次）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 平台将在35秒后延伸 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 35,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": "> HURRY UP! <",
+    "original": ">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<",
     "en_trans": "",
-    "zh_trans": "> 赶快！<",
+    "zh_trans": ">>> 前线武器库已被窃取！ <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -99,42 +132,31 @@
     "force_hint": 0
   },
   {
-    "original": "> Cave is Open! <",
+    "original": ">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "> 洞穴已打开！<",
+    "zh_trans": ">>> 平台将在15秒后延伸 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
-  },
-  {
-    "original": "> DONT WAIT! <",
-    "en_trans": "",
-    "zh_trans": "> 别等了！<",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "> Zombie Teleport For 10 Seconds. <",
-    "en_trans": "",
-    "zh_trans": "> 僵尸 10 秒后传送 <",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 10,
+    "timer_num": 15,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": "> Zombie Teleport For 5 Seconds. <",
+    "original": "> REDEEMER has been acquired",
     "en_trans": "",
-    "zh_trans": "> 僵尸 5 秒后传送 <",
+    "zh_trans": "> 小型核弹（终极）已拾取",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 平台将在5秒后延伸 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -143,9 +165,9 @@
     "force_hint": 0
   },
   {
-    "original": "> KEY RECEIVED <",
+    "original": ">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<",
     "en_trans": "",
-    "zh_trans": "> 钥匙已收到 <",
+    "zh_trans": ">>> 平台已经延伸 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -154,42 +176,20 @@
     "force_hint": 0
   },
   {
-    "original": "> DEFEND FOR 20 SECONDS <",
+    "original": ">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<",
     "en_trans": "",
-    "zh_trans": "> 防守 20 秒 <",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "> FALL BACK! <",
-    "en_trans": "",
-    "zh_trans": "> 撤退！<",
+    "zh_trans": ">>> 破坏维修船的门 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
-  },
-  {
-    "original": "> FINAL AREA IN DEFEND FOR 30 SECONDS <",
-    "en_trans": "",
-    "zh_trans": "> 防守最终区域 30 秒 <",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 30,
-    "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": "> TOUCH WOLF ICON - GO! GO! GO! <",
+    "original": ">>>Enemies reached the objective<<<",
     "en_trans": "",
-    "zh_trans": "> 触摸狼图标 - GO! GO! GO! <",
+    "zh_trans": ">>> 敌人已到达目标点 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

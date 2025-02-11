@@ -1,6 +1,127 @@
 [
   {
-    "original": "已进入第一区域",
+    "original": ">>> STAGE 1 : VILLAGE MODE <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第一阶段：村庄模式 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> SUNNY LEVEL <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 阳光模式 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> Map made by Moray <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 地图作者；Moray <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> HOLD 20 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 坚守20秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> PLAYER HAS PICKED UP HEAL <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了奶 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了彩虹激光 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了zm奶 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> PLAYER HAS PICKED UP AMMO <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了弹药 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** ZOMBIES HAVE REACHED THE DOOR FIRST, SLAYING HUMANS **",
+    "en_trans": "",
+    "zh_trans": "** 僵尸比人类先贴到门，人类看到后原地爆炸了！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> PLAYER HAS PICKED UP POISON TOILET <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了毒马桶 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> HOLD 25 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 坚守25秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> PLAYER HAS PICKED UP PUSH <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -11,7 +132,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第二区域",
+    "original": ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -22,7 +143,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第三区域",
+    "original": ">>> PLAYER HAS PICKED UP EARTH TOILET <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -33,7 +154,18 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第四区域",
+    "original": ">>> HOLD 15 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> BLOOPER IS COMING <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -44,7 +176,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第五区域",
+    "original": ">>> BLOOPER USED BREATH <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -55,7 +187,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第六区域",
+    "original": ">>> BLOOPER USED SPLASH <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -66,7 +198,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第八区域",
+    "original": ">>> BLOOPER USED INK <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -77,7 +209,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第九区域",
+    "original": ">>> BLOOPER USED BEAM <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -88,238 +220,7 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十一区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十二区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十三区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十四区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十五区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十六区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十七区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第十八区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "最终传送已开启",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第七区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "此区域内传送暂时关闭",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已发现挪麦宇航服",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "挪麦宇航服已失效",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "传送已开启",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第二十区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第二十一区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "t0",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "当前难度：幻梦 (easy)",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "机关不造成伤害",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "当前难度：幻梦",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "机关不造成伤害 机关通过十六人后关闭",
+    "original": ">>> BLOOPER HAS BEEN DEFEATED <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

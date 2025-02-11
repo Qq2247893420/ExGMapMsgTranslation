@@ -1,8 +1,19 @@
 [
   {
-    "original": "已进入第一区域",
+    "original": "World Level 01",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第一关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "*** Electric has been acquired ***",
+    "en_trans": "",
+    "zh_trans": "*** 电已被拾取 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -11,9 +22,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第二区域",
+    "original": "*** Fire has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火已被拾取 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -22,9 +33,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第三区域",
+    "original": "*** Heal has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 奶已被拾取 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -33,9 +44,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第四区域",
+    "original": "***You found a switch***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***你找到了一个开关***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -44,9 +55,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第五区域",
+    "original": "***Try to find more switches***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***尝试去寻找更多开关***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -55,9 +66,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第六区域",
+    "original": "*The left door is about to open*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*左边的门很快就会开启*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -66,9 +77,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第八区域",
+    "original": "*The right button is broken*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*右边的按钮坏了*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -77,9 +88,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第九区域",
+    "original": "Have the conditions to enter the next scene",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已具备进入下一场景的条件",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -88,9 +99,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十区域",
+    "original": "Ready to move on to the next location",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "准备前往下一个地点",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -99,9 +110,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十一区域",
+    "original": "*** Water has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 水已被拾取 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -110,9 +121,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十二区域",
+    "original": "*** Wind has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 风已被拾取 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -121,9 +132,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十三区域",
+    "original": "***left***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***左边***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -132,9 +143,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十四区域",
+    "original": "The road will be cleared soon",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路很快就会清理干净",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -143,9 +154,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十五区域",
+    "original": "***The gift of diamonds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***钻石的礼物***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -154,9 +165,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十六区域",
+    "original": "***float***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***浮动***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -165,9 +176,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十七区域",
+    "original": "***Flaming column***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***燃烧柱***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -176,9 +187,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第十八区域",
+    "original": "***Bouncing dance steps***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***弹跳舞步***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -187,9 +198,9 @@
     "force_hint": 0
   },
   {
-    "original": "最终传送已开启",
+    "original": "***Stepping stone prank***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***垫脚石恶作剧***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -198,9 +209,9 @@
     "force_hint": 0
   },
   {
-    "original": "已进入第七区域",
+    "original": "Ending | Flowing water |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "结局 | 流动的水 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -209,119 +220,9 @@
     "force_hint": 0
   },
   {
-    "original": "此区域内传送暂时关闭",
+    "original": "Coming to the next level",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已发现挪麦宇航服",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "挪麦宇航服已失效",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "传送已开启",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第二十区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "已进入第二十一区域",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "t0",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "当前难度：幻梦 (easy)",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "机关不造成伤害",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "当前难度：幻梦",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "机关不造成伤害 机关通过十六人后关闭",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ""进入下一关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

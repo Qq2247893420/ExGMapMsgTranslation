@@ -328,5 +328,115 @@
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 0
+  },
+  {
+    "original": "<<< Core has noticed us >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 核心已经注意到我们 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< stage set to [Escape] >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 关卡已调至 [逃离] >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 受到光之守护，现在对僵尸的攻击免疫，但僵尸仍会阻止你逃跑 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< Zombie's Freeze is stronger >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸的冻结能力更强 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Fire! This is final battle!",
+    "en_trans": "",
+    "zh_trans": "开火！这是最后的战斗！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< you did it !!! Core have been defeated by you,but you still have to resist zombie attacks until the end >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 你做到了！！！核心已被你击败，但你仍须抵御僵尸的进攻直到最后 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< You escaped, but the core became shadow >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 你逃脱了，但核心变成了暗影 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< The ring protects core and restarts the time >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 环保护着核心并重启了时间 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< Now you're facing real shadow >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 现在你要面对真正的暗影 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< Zombies are faster than you. You lose >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
