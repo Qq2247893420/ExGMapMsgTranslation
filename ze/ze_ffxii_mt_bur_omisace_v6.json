@@ -46,7 +46,7 @@
   {
     "original": "**[Setzer] We have finally arrived. Welcome to Mt Bur-Omisace**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚] 我们终于到了，欢迎来到神都布尔奥米赛斯**",
+    "zh_trans": "**[西捷亚] 前面就是神都-布尔奥米赛斯**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "**[Setzer] You have to go the rest of the way on your own. Flying closer is prohibited!**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚] 剩下的路得自己走了，神都附近是严禁飞行的 **",
+    "zh_trans": "**[西捷亚] 剩下的路得自己走了，飞空艇飞不进去 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "**[Setzer] We meet soon after Ashe talk to Al-Cid Margrace of Rozarria!**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚] 我们在艾雪和阿尔希德·马格拉斯的交谈后见面! **",
+    "zh_trans": "**[西捷亚] 等到雅雪跟亚尔习德·马古瑞斯交谈完后我们再汇合! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "**[Tonberry] I lost my Workshop Keys could you help we find them?**",
     "en_trans": "",
-    "zh_trans": "**[冬贝利] 我丢了工作室的钥匙，您能帮我找找么?**",
+    "zh_trans": "**[冬贝利] 我丢了商铺的钥匙，您能帮我找找么?**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "**[Bash] The temple was built here by believers**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 这座神庙由基尔提亚教的信徒们所造 **",
+    "zh_trans": "**[巴修] 这座神庙由基尔提亚教的信徒们所造 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": "**[Bash] They did it to mark the place where the founder of the Light of Kiltia began to spread the teachings**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 用于纪念基尔提亚教的创始人**",
+    "zh_trans": "**[巴修] 用于纪念基尔提亚教的创始人**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,7 +167,7 @@
   {
     "original": "**[Bash] There are accounts of the holy city here dating back to writings from the age of the Galtean Alliance**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 这里记载了神都所有的历史，最早可追溯到加尔提亚联盟时代。**",
+    "zh_trans": "**[巴修] 这里记载了神都所有的历史，最早可追溯到加尔提亚联盟时代。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "**A player has picked up Sand Magick**",
     "en_trans": "",
-    "zh_trans": "** 玩家拾起了 沙魔法**",
+    "zh_trans": "** 玩家拾起了流沙魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "**The Gates of Temple will open in 35 seconds!**",
     "en_trans": "",
-    "zh_trans": "** 神庙的门 35 秒后开启**",
+    "zh_trans": "** 圣轮之门将在 35 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "**A player has picked up Thunder Magick**",
     "en_trans": "",
-    "zh_trans": "** 玩家拾起了 电魔法 **",
+    "zh_trans": "** 玩家拾起了雷电魔法 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "**[Bash] Find the way to the Hall of The Light and talk with Gran Kiltias**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 找到前往光之殿的路，并与大僧正对话**",
+    "zh_trans": "**[巴修] 找到前往<光明之室>的路，并与大僧正对话**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -222,7 +222,7 @@
   {
     "original": "**[Bash] The gates are open. We have finally entered the temple**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 门开了. 我们终于进入神庙了**",
+    "zh_trans": "**[巴修] 门开了. 继续前进吧**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "**A player has picked up Fear Magick**",
     "en_trans": "",
-    "zh_trans": "** 僵尸拾起了 恐惧魔法**",
+    "zh_trans": "** 僵尸拾起了恐惧魔法（范围减速）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "**[Bash] Some of your items can damage the boss**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 部分神器可对boss造成伤害 **",
+    "zh_trans": "**[巴修] 部分神器可对boss造成伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "**A player has picked up Damage Magick**",
     "en_trans": "",
-    "zh_trans": "** 玩家拾起了 破坏魔法**",
+    "zh_trans": "** 玩家拾起了 秒杀魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "**[Bash] We shouldn't have come in here. Let's get out of here while we still can!**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 我们本不该来这儿的。趁我们还能走，赶紧离开这儿吧！**",
+    "zh_trans": "**[巴修] 或许我们本就不应该来到这里，赶快找到其他的路！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "**[Balthier] It's a dead end!**",
     "en_trans": "",
-    "zh_trans": "**[巴尔弗雷亚] 这是个死胡同!**",
+    "zh_trans": "**[巴弗雷亚] 这是个死胡同!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "**[Bash] Destroy the activation crystal or we'll all stay here forever**",
     "en_trans": "",
-    "zh_trans": "**[巴什]摧毁水晶，否则我们会永远困在这里**",
+    "zh_trans": "**[巴修]摧毁水晶，或许还有一线生机！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]水晶已被摧毁！传送需要 15 秒来完全激活！**",
+    "zh_trans": "**[巴修]水晶已被摧毁！传送需要 15 秒来完全激活！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "**[Bash] Get to the fountain! Fast!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]快去喷泉那里！快点！**",
+    "zh_trans": "**[巴修]快去喷泉那里！快点！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "**[Bash] The Guard of the gates. If we want to escape we have to defeat him!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]那是大门的守卫。如果我们想逃离这里，就必须打败他！**",
+    "zh_trans": "**[巴修]那是大门的守卫。击败它！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "**[Bash] The Guard has vanquished! Keep runing!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]守卫已被消灭！继续走！**",
+    "zh_trans": "**[巴修]守卫已被击败！继续走！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "**[Balthier] We have to hold this area for 20 seconds! Get ready!**",
     "en_trans": "",
-    "zh_trans": "**[巴尔弗雷亚]我们必须坚守这个区域 20 秒！准备好！**",
+    "zh_trans": "**[巴弗雷亚]我们必须坚守这个区域 20 秒！准备好！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "**[Balthier] Don't let them get to the balcony!**",
     "en_trans": "",
-    "zh_trans": "**[巴尔弗雷亚]别让他们到达阳台！**",
+    "zh_trans": "**[巴弗雷亚]别让他们到达阳台！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "**[Setzer] Dark clouds begin to gather over Temple Grounds. This is a bad sign**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚]乌云开始在圣殿广场上空聚集。这是个不祥之兆。**",
+    "zh_trans": "**[西捷亚]神都上空乌云密布。这是发生什么事了。。。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "**[Setzer] Anyway find and talk with Gran Kiltias. Hope he acknowledge her as the rightful heir to the throne of Dalmasca!**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚]不管怎样，去找格兰·基尔提斯谈谈。希望他承认她是达尔玛斯卡王位的合法继承人！**",
+    "zh_trans": "**[西捷亚]不管怎样，去找大僧正谈谈。希望他承认她是达尔玛斯卡王位的合法继承人！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "**[Vaan] Is that who I think it is!?**",
     "en_trans": "",
-    "zh_trans": "**[梵]是我想的那个吗！？**",
+    "zh_trans": "**[梵]这是个什么玩意！？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,7 +629,7 @@
   {
     "original": "**[Bash] Yes! It's the Sanctuary Keeper! The most dangerous guard! We must kill him before he kills us!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]是的！是圣殿守护者！最危险的守卫！我们必须在他杀死我们之前干掉他！**",
+    "zh_trans": "**[巴修]是圣殿守护者！？我们必须干掉他！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,7 +640,7 @@
   {
     "original": "**[Bash] Prepare for battle! Do not get close or you will die immediately!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]准备战斗！不要靠近，否则你会立刻死掉！**",
+    "zh_trans": "**[巴修]准备战斗！不要靠近它，否则你会死！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -651,7 +651,7 @@
   {
     "original": "**Sanctuary Keeper has casted Wind Rage!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了风之狂怒！（面朝场地中心按W抵抗推力）** ",
+    "zh_trans": "**圣殿守护者吹了一口气！（面朝场地中心按W抵抗推力）** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -662,7 +662,7 @@
   {
     "original": "**Sanctuary Keeper has casted Carnage of Phantoms!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了幻影屠戮！（按S抵抗吸力）**",
+    "zh_trans": "**圣殿守护者刮起了一阵风！（按S抵抗吸力）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "**Sanctuary Keeper has casted Solar Orb!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了日光之球！（躲避环形特效）**",
+    "zh_trans": "**圣殿守护者施展了火焰魔法！（躲避特效）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "**Sanctuary Keeper has casted Shadow Blast!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了暗影冲击！（躲避脚底特效）**",
+    "zh_trans": "**圣殿守护者施展了暗影冲击！（躲避前方特效）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": "**[Bash] The last guard has vanquished! Now we can meet Gran Kiltias!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]最后一个守卫已被打败！现在我们可以去见格兰·基尔提斯了！**",
+    "zh_trans": "**[巴修]守卫已被打败！现在我们可以去找大僧正了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -717,7 +717,7 @@
   {
     "original": "**[Bash] Hurry and find a way to the lower parts of the Hall!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]快点找到通往大厅下层区域的路！**",
+    "zh_trans": "**[巴修]快点找到通往大厅下层区域的路！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": "**[Bash] Well done! Hold this area for 40 seconds until the gates open!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]干得好！守住这个区域 40 秒直到大门打开！**",
+    "zh_trans": "**[巴修]守住这个区域 40 秒直到大门打开！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "**Get to the teleport to to avoid death!**",
     "en_trans": "",
-    "zh_trans": "**快去传送点(中间的蓝色光球)不然要去世了！**",
+    "zh_trans": "**快去传送点(中间的蓝色光球)不然你就要死了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,7 +783,7 @@
   {
     "original": "**Sanctuary Keeper has casted Interruption Seal!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了中断封印！**",
+    "zh_trans": "**圣殿守护者施展了百万火光！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -805,7 +805,7 @@
   {
     "original": "**Sanctuary Keeper has casted Flare of Freezing!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了冰冷耀斑！（躲避特效）**",
+    "zh_trans": "**圣殿守护者施展了点名冰冻魔法！（躲避特效）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -816,7 +816,7 @@
   {
     "original": "**Sanctuary Keeper has casted Wave of Redemption!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了救赎之波！**",
+    "zh_trans": "**圣殿守护者召唤了柱子！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,7 +838,7 @@
   {
     "original": "**[Bash] stay focused! I have a feeling this isn't the end!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]保持专注！我有一种感觉，还没结束！**",
+    "zh_trans": "**[巴修]保持专注！我有一种感觉，还没结束！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,7 +849,7 @@
   {
     "original": "**[Bash] It's the Adrammelech Shoot before it's too late!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]是阿德拉梅莱赫，快开火，否则就太迟了！（BOSS方向来高低刀）**",
+    "zh_trans": "**[巴修]是愤怒的灵帝，快开火，否则就太迟了！（BOSS方向来高低刀）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,7 +860,7 @@
   {
     "original": "**The Adrammelech has vanquished!**",
     "en_trans": "",
-    "zh_trans": "**阿德拉梅莱赫已被击败！**",
+    "zh_trans": "**愤怒的灵帝已被击败！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,7 +871,7 @@
   {
     "original": "**[Bash] Don't let zombies cross the bridge! Its last hold defend until something happen!",
     "en_trans": "",
-    "zh_trans": "**[巴什]别让僵尸过桥！这是最后的防线，守住，有什么事要发生了！**",
+    "zh_trans": "**[巴修]别让僵尸过桥！这是最后的防线，守住！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -882,7 +882,7 @@
   {
     "original": "**[Vaan] What's that!? Cactus...**",
     "en_trans": "",
-    "zh_trans": "**[梵]那是什么！？仙人掌...**",
+    "zh_trans": "**[梵]这是个什么玩意！？仙人掌...**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -893,7 +893,7 @@
   {
     "original": "**[Ashe] Not again... Shoot him because he will never leave us alone!**",
     "en_trans": "",
-    "zh_trans": "**[艾雪]又来了... 开火，他不会放过我们的！**",
+    "zh_trans": "**[艾雪]又来了... 把它击退！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -926,7 +926,7 @@
   {
     "original": "**Sanctuary Keeper has casted Mind Tempest!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了心灵风暴！（别站在场地外圈）**",
+    "zh_trans": "**圣殿守护者施展了外圈闪电魔法！（别站在场地外圈）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -948,7 +948,7 @@
   {
     "original": "**[Setzer] The temple is being attacked by the guardians!**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚] 神庙正受到守护者的攻击！**",
+    "zh_trans": "**[西捷亚] 神都正受到帝国裁判长的攻击！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,7 +959,7 @@
   {
     "original": "**[Setzer] We hit! We hit! We have to fly! So far you're on your own! Good luck**",
     "en_trans": "",
-    "zh_trans": "**[西捷亚] 我们被击中了！我们被击中了！我们得走了！目前只能靠你自己了！祝你好运**",
+    "zh_trans": "**[西捷亚] 我们被帝国军队发现了！我们得走了！后面只能靠你自己了！祝你好运**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -970,7 +970,7 @@
   {
     "original": "**[Bash] Look out! The Imperial Army is attacking!!**",
     "en_trans": "",
-    "zh_trans": "**[巴什] 小心！帝国军正在进攻！！**",
+    "zh_trans": "**[巴修] 小心！帝国军正在进攻神山！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "**[Bash] Kingdom and Empire both formed a pact to guarantee the holy city's independence",
     "en_trans": "",
-    "zh_trans": "**[巴什]王国和帝国都达成了一项协议以保证神都的独立**",
+    "zh_trans": "**[巴修]王国和帝国都达成了一项协议以保证神都不受政权的影响**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,7 +1014,7 @@
   {
     "original": "**[Bash] In its long history Mt Bur-Omisace has never fallen under the control of any foreign power**",
     "en_trans": "",
-    "zh_trans": "**[巴什]在其漫长的历史中，神都布尔奥米赛斯从未落入过任何外国势力的控制之下*",
+    "zh_trans": "**[巴修]在其漫长的历史中，神都布尔奥米赛斯从未落入过任何国家势力的控制之下*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1036,7 +1036,7 @@
   {
     "original": "**The Gates of Temple will open soon!**",
     "en_trans": "",
-    "zh_trans": "**神庙的大门很快就会打开！**",
+    "zh_trans": "**等待圣轮之门打开！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,7 +1047,7 @@
   {
     "original": "**[Balthier] Watch out! They are shooting us!**",
     "en_trans": "",
-    "zh_trans": "**[巴尔弗雷亚]小心！他们在攻击我们！**",
+    "zh_trans": "**[巴弗雷亚]帝国的飞空艇舰队正在炮击！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1058,7 +1058,7 @@
   {
     "original": "**The way is open! Keep running!**",
     "en_trans": "",
-    "zh_trans": "**道路畅通了！继续跑！**",
+    "zh_trans": "**快跑！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,7 +1135,7 @@
   {
     "original": "**Judge Bergan has casted 1000 Needles!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了千针刺！**",
+    "zh_trans": "**贝甘审判官施展了千针刺！快来中间蹲下！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1146,7 +1146,7 @@
   {
     "original": "**[Bash] Judge Bergan used Magicite! We have to kill him!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]贝甘审判官使用了魔石！我们必须杀了他！**",
+    "zh_trans": "**[巴什]贝甘审判官使用了人造破魔石！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,7 +1157,7 @@
   {
     "original": "**Judge Bergan summons Esper Ultima!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤出了 幻兽 乌尔蒂玛！**",
+    "zh_trans": "**贝甘审判官召唤出了[圣天使]阿尔蒂玛！全体血量恢复至100**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1168,7 +1168,7 @@
   {
     "original": "**Judge Bergan summons Esper Shemhazai!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤出了 幻兽 谢姆哈扎伊！**",
+    "zh_trans": "**贝甘审判官召唤出了[告密者]修米哈萨！对全体玩家点名伤害**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,7 +1179,7 @@
   {
     "original": "**Judge Bergan has casted Ceremony of the Nether!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了幽冥仪式！**",
+    "zh_trans": "**贝甘审判官对自己使用了反伤魔法！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1190,7 +1190,7 @@
   {
     "original": "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**",
     "en_trans": "",
-    "zh_trans": "**[巴什]贝甘审判官召唤出了维纳特！快开火**",
+    "zh_trans": "**[巴修]贝甘审判官召唤出了维涅斯！快集火击败它！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]终于！维纳特死了！现在我们可以对付贝甘了！**",
+    "zh_trans": "**[巴修]维涅斯死了！现在我们可以对付贝甘了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1223,7 +1223,7 @@
   {
     "original": "**[Balthier] He set his very bones about with manufacted nethicite**",
     "en_trans": "",
-    "zh_trans": "**[巴尔弗雷亚]他用人工制造的魔石强化了自己的骨骼**",
+    "zh_trans": "**[巴弗雷亚]他用人造破魔石强化了自己。。。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1234,7 +1234,7 @@
   {
     "original": "**[Balthier] Anyway we need to get out of here! Imperial reinforcements incoming!**",
     "en_trans": "",
-    "zh_trans": "**[巴尔弗雷亚]不管怎样，我们都要离开这里！帝国增援部队要来了！**",
+    "zh_trans": "**[巴弗雷亚]不管怎样，我们都要离开这里！帝国增援部队要来了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1245,7 +1245,7 @@
   {
     "original": "**[Bash] Remember trust no one!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]记住，不要相信任何人！**",
+    "zh_trans": "**[巴修]记住，不要相信任何人！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1256,7 +1256,7 @@
   {
     "original": "**[Bash] The Imperial Army set fire to the temples!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]帝国军放火烧了那些神庙！**",
+    "zh_trans": "**[巴修]帝国军放火烧了神都！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1278,7 +1278,7 @@
   {
     "original": "**[Bash] We do not know they set additional traps for us! Be vigilant! Hold here for 20 seconds!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]我们不知道他们是否为我们设下了更多陷阱！保持警惕！在这里坚守 20 秒！**",
+    "zh_trans": "**[巴修]我们不知道他们是否为我们设下了更多陷阱！保持警惕！在这里坚守 20 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1289,7 +1289,7 @@
   {
     "original": "**[Bash] We need to hold this area for 15 seconds!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]我们需要守住这个区域 15 秒！**",
+    "zh_trans": "**[巴修]我们需要守住这个区域 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1300,7 +1300,7 @@
   {
     "original": "**[Bash] The exit is right in front of us! Get ready for the final battle**",
     "en_trans": "",
-    "zh_trans": "**[巴什]出口就在我们正前方！为最后的战斗做好准备**",
+    "zh_trans": "**[巴修]出口就在我们正前方！为最后的战斗做好准备**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1333,7 +1333,7 @@
   {
     "original": "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]阿德拉梅莱赫挡住了道路！快开火！**",
+    "zh_trans": "**[巴修]愤怒的灵帝挡住了道路！快开火！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1344,7 +1344,7 @@
   {
     "original": "**[Bash] Adrammelech vanquished! Path is clear!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]阿德拉梅莱赫被击败了！道路畅通！**",
+    "zh_trans": "**[巴什]它被击败了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1355,7 +1355,7 @@
   {
     "original": "**Judge Bergan has casted Frost Fury!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了冰霜之怒！**",
+    "zh_trans": "**贝甘审判官施展了冰冻魔法！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "**Judge Bergan has casted Gift of Plagues!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了疫病恩赐！**",
+    "zh_trans": "**贝甘审判官施展了瘟疫魔法！来中间规避！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1377,7 +1377,7 @@
   {
     "original": "**Judge Bergan has casted Aura of Water!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了水之灵气！**",
+    "zh_trans": "**贝甘审判官施展了狂风魔法！来中间抵抗推力！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1388,7 +1388,7 @@
   {
     "original": "**Judge Bergan has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了寒冰箭！**",
+    "zh_trans": "**贝甘审判官施展了冰冻魔法！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "**Judge Bergan has casted Blazing Surge!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了炽热涌动！**",
+    "zh_trans": "**贝甘审判官附魔了火焰铠甲！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1410,7 +1410,7 @@
   {
     "original": "**Judge Bergan summons Esper Famfirt!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤了 幻兽 法姆弗里特！**",
+    "zh_trans": "**贝甘审判官召唤了[黑暗之云]法姆弗里特！快来中间抵抗水流推力！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,7 +1421,7 @@
   {
     "original": "**[Bash] Imperial Army trying to block the temple!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]帝国军试图封锁神庙！**",
+    "zh_trans": "**[巴修]帝国军试图封锁神都！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1454,7 +1454,7 @@
   {
     "original": "**[Setzer] Watch out! We clean them out!**",
     "en_trans": "",
-    "zh_trans": "**[塞策]小心！我们把他们解决掉！**",
+    "zh_trans": "**[西捷亚]小心！我们把他们解决掉！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1465,7 +1465,7 @@
   {
     "original": "**[Bash] Nades do more damage**",
     "en_trans": "",
-    "zh_trans": "**[巴什]手雷能造成更多伤害**",
+    "zh_trans": "**[巴修]手雷能造成更多伤害**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1476,7 +1476,7 @@
   {
     "original": "[Bash] Judge is dead! Keep running!!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]审判官死了！快跑！！**",
+    "zh_trans": "**[巴修]审判官死了！快离开这！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1487,7 +1487,7 @@
   {
     "original": "**Judge Bergan has casted Rage of Magic!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了魔法狂怒！**",
+    "zh_trans": "**贝甘审判官召唤了雷电！雷电将在下一次技能出现时生效**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1498,7 +1498,7 @@
   {
     "original": "**Judge Bergan summons Esper Zodiark!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤出了 幻兽 佐迪亚克！**",
+    "zh_trans": "**贝甘审判官召唤出了[戒律王]佐迪亚克！快离开脚底下的圈！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1509,7 +1509,7 @@
   {
     "original": "**Judge Bergan has casted Moon Blast!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了月辉冲击！**",
+    "zh_trans": "**贝甘审判官召唤了月光！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1520,7 +1520,7 @@
   {
     "original": "**[Bash] You can't do any harm to Judge Bergan until you destroy the moonlight!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]在摧毁月亮之前，你无法对贝甘审判官造成任何伤害！**",
+    "zh_trans": "**[巴修]在摧毁月亮之前，你无法对贝甘审判官造成任何伤害！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1542,7 +1542,7 @@
   {
     "original": "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**",
     "en_trans": "",
-    "zh_trans": "**[巴什]干得好！你打断了这次攻击，现在可以攻击贝甘审判官了**",
+    "zh_trans": "**[巴修]干得好！你打断了这次攻击，现在可以攻击贝甘审判官了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1553,7 +1553,7 @@
   {
     "original": "**Judge Bergan has casted Tranquility Wave!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了宁静之波！**",
+    "zh_trans": "**贝甘审判官释放了狂风魔法，快按S抵抗！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1564,7 +1564,7 @@
   {
     "original": "**Judge Bergan has casted Severance of the Arcane!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了秘法断裁！**",
+    "zh_trans": "**贝甘审判官释放了秘法绝禁术！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1575,7 +1575,7 @@
   {
     "original": "**[Bash] Don't stay on sides! Get to the middle now!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]别待在边上！快去中间！**",
+    "zh_trans": "**[巴修]来中间规避伤害！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1586,7 +1586,7 @@
   {
     "original": "**Judge Bergan has casted Wind Salvo!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了风之连击！**",
+    "zh_trans": "**贝甘审判官释放了风铠！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1597,7 +1597,7 @@
   {
     "original": "**Judge Bergan summons Esper Chaos!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤了 幻兽 卡奥斯！**",
+    "zh_trans": "**贝甘审判官召唤了[轮回王]卡奥斯！它会召唤闪电，快动起来！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1608,7 +1608,7 @@
   {
     "original": "**[Tonberry] Thanks for your help now I can go back to my own**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[冬贝利]感谢你的帮助，现在我可以离开了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1619,7 +1619,7 @@
   {
     "original": "**[Tonberry] Congratulations! There is your reward!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[冬贝利]对了，这是给你的礼物，收下吧！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1630,7 +1630,7 @@
   {
     "original": "**A player has picked up The Devileye**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "玩家获得了双手弩",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1641,7 +1641,7 @@
   {
     "original": "**A player has picked up Judge Zargabaath**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "裁判长扎尔伽巴斯加入了战斗",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
